@@ -11,27 +11,14 @@
 </head>
 
 <body>
-    <py-script> print('Hello, World!')</py-script>
     <py-script>
-import datetime as dt
-pyscript.write('today', dt.date.today().strftime('%A %B %d, %Y'))
-
+        for i in range(3):
+            print(i)
+           
     </py-script>
-    
-<div id="plot"></div>
-<py-script output="plot">
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-
-pd.read_csv("C:\Coding\IA\Test\Datasets\predictions.csv")
-x = np.random.randn(1000)
-y = np.random.randn(1000)
-
-fig, ax = plt.subplots()
-ax.scatter(x, y)
-fig
-</py-script>
+    <py-repl>
+        
+    </py-repl>
 
 
 <div id = 'today'></div>

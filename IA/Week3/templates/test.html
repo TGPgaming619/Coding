@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dropdown</title>
+</head>
+<body>
+
+  <form action="/" method="POST">
+    <select name="team">
+      {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+      {% endfor %}
+    </select>
+    <input type="submit" value="Submit">
+  </form>
+  
+  {% if selected_rows.empty %}
+    <table>
+      <thead>
+        <tr>
+          {% for col in data.columns %}
+            <th>{{ col }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for index, row in selected_rows.iterrows() %}
+          <tr>
+            {% for val in row %}
+              <td>{{ val }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+  
+
+</body>
+</html>

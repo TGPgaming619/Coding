@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import precision_score
 from sklearn.metrics import accuracy_score
 
-matches = pd.read_csv("C:\Coding\IA\Test\matches.csv", index_col = 0)
+matches = pd.read_csv("C:\Coding\IA\Test\matches2.csv", index_col = 0)
 
 matches["date"] = pd.to_datetime(matches["date"])
 matches["venue_code"] = matches["venue"].astype("category").cat.codes
