@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      table {
+        font-size: 16px;
+        width: 75%;
+        border-collapse: collapse;
+        background-position: center;
+      }
+      th, td {
+        border: 3px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+        text-align: center;
+        border-style: double;
+      }
+      th {
+        background-color: lightgray;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+      .header-col {
+        width: 25%;
+      }
+      input {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+      }
+      select {
+        width: 100%;
+        padding: 16px 20px;
+        border: none;
+        border-radius: 4px;
+        font-size: 120%;
+        font-weight: bold;
+        text-allign: center;
+      }
+    </style>
+    <meta charset="UTF-8" />
+    <title>Football Premier League Match Prediction</title>
+  </head>
+  <body style="background-color: #353740">
+    <form action="/" method="POST">
+      <select name="team">
+        {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+      </select>
+      <input type="submit" value="Click to submit!" />
+
+      {% if not selected_rows.empty %}
+      <table align="center">
+        <thead>
+          <tr>
+            {% for col in data.columns %}
+            <th bgcolor="45B8AC">{{ col }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody bgcolor="white">
+          > {% for index, row in selected_rows.iterrows() %}
+          <tr>
+            {% for val in row %}
+            <td>{{ val }}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
+    </form>
+  </body>
+</html>

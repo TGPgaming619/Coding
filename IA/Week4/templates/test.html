@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+table {
+  font-size: 16px;
+  font-family: Optimum, Helvetica, sans-serif;
+  border-collapse:collapse;
+  background-position: center;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center; padding: 5px;
+  border-style: dashed   
+}
+
+td:nth-child(1) {  font-weight: bold; font-size: 110%; background: grey; color:white; }
+td:nth-child(2) { color: red; }
+td:nth-child(3) { color: blue; }
+td:nth-child(4) { background: yellow; color:black;}
+td:nth-child(5) { background: red; color:black;}
+</style>
+    <meta charset="UTF-8">
+    <title>Football Premier League Match Prediction</title>
+</head>
+<body style="background-color:powderblue;">
+
+  <form action="/" method="POST">
+    <select name="team" >
+      {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+      {% endfor %}
+    </select>
+    <input type="submit" value="Click to submit!">
+
+    {% if not selected_rows.empty %}
+      <table align="center">
+        <thead>
+          <tr>
+            {% for col in data.columns %}
+              <th bgcolor= "lightgreen">{{ col }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody bgcolor="white">>
+          {% for index, row in selected_rows.iterrows() %}
+            <tr>
+              {% for val in row %}
+                <td>{{ val }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+  </form>
+
+</body>
+</html>

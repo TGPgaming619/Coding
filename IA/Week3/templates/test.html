@@ -13,29 +13,28 @@
       {% endfor %}
     </select>
     <input type="submit" value="Submit">
-  </form>
-  
-  {% if selected_rows.empty %}
-    <table>
-      <thead>
-        <tr>
-          {% for col in data.columns %}
-            <th>{{ col }}</th>
-          {% endfor %}
-        </tr>
-      </thead>
-      <tbody>
-        {% for index, row in selected_rows.iterrows() %}
+
+    {% if not selected_rows.empty %}
+      <table>
+        <thead>
           <tr>
-            {% for val in row %}
-              <td>{{ val }}</td>
+            {% for col in data.columns %}
+              <th>{{ col }}</th>
             {% endfor %}
           </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  {% endif %}
-  
+        </thead>
+        <tbody>
+          {% for index, row in selected_rows.iterrows() %}
+            <tr>
+              {% for val in row %}
+                <td>{{ val }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+  </form>
 
 </body>
 </html>

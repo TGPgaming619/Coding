@@ -1,698 +1,698 @@
-,date,team,opponent,predicted,string
-0,2022-01-23,Arsenal,Burnley,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-1,2022-02-10,Arsenal,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-2,2022-02-19,Arsenal,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-3,2022-02-24,Arsenal,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-4,2022-03-06,Arsenal,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-5,2022-03-13,Arsenal,Leicester City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-6,2022-03-16,Arsenal,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-7,2022-03-19,Arsenal,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-8,2022-04-04,Arsenal,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-9,2022-04-09,Arsenal,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-10,2022-04-16,Arsenal,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-11,2022-04-20,Arsenal,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-12,2022-04-23,Arsenal,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-13,2022-05-01,Arsenal,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-14,2022-05-08,Arsenal,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-15,2022-05-12,Arsenal,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-16,2022-05-16,Arsenal,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-17,2022-05-22,Arsenal,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-18,2022-08-05,Arsenal,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-19,2022-08-13,Arsenal,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-20,2022-08-20,Arsenal,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-21,2022-08-27,Arsenal,Fulham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-22,2022-08-31,Arsenal,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-23,2022-09-04,Arsenal,Manchester United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-24,2022-09-18,Arsenal,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-25,2022-10-01,Arsenal,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-26,2022-10-09,Arsenal,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-27,2022-10-16,Arsenal,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-28,2022-10-23,Arsenal,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-29,2022-10-30,Arsenal,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-30,2022-11-06,Arsenal,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-31,2022-11-12,Arsenal,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-32,2022-12-26,Arsenal,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-33,2022-01-02,Aston Villa,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-34,2022-01-15,Aston Villa,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-35,2022-01-22,Aston Villa,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-36,2022-02-09,Aston Villa,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-37,2022-02-13,Aston Villa,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-38,2022-02-19,Aston Villa,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-39,2022-02-26,Aston Villa,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-40,2022-03-05,Aston Villa,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-41,2022-03-10,Aston Villa,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-42,2022-03-13,Aston Villa,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-43,2022-03-19,Aston Villa,Arsenal,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-44,2022-04-02,Aston Villa,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-45,2022-04-09,Aston Villa,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-46,2022-04-23,Aston Villa,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-47,2022-04-30,Aston Villa,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-48,2022-05-07,Aston Villa,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-49,2022-05-10,Aston Villa,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-50,2022-05-15,Aston Villa,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-51,2022-05-19,Aston Villa,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-52,2022-05-22,Aston Villa,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-53,2022-08-06,Aston Villa,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-54,2022-08-13,Aston Villa,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-55,2022-08-20,Aston Villa,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-56,2022-08-28,Aston Villa,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-57,2022-08-31,Aston Villa,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-58,2022-09-03,Aston Villa,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-59,2022-09-16,Aston Villa,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-60,2022-10-02,Aston Villa,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-61,2022-10-10,Aston Villa,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-62,2022-10-16,Aston Villa,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-63,2022-10-20,Aston Villa,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-64,2022-10-23,Aston Villa,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-65,2022-10-29,Aston Villa,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-66,2022-11-06,Aston Villa,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-67,2022-11-13,Aston Villa,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-68,2022-12-26,Aston Villa,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-69,2022-08-06,Bournemouth,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-70,2022-08-13,Bournemouth,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-71,2022-08-20,Bournemouth,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-72,2022-08-27,Bournemouth,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-73,2022-08-31,Bournemouth,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-74,2022-09-03,Bournemouth,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-75,2022-09-17,Bournemouth,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-76,2022-10-01,Bournemouth,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-77,2022-10-08,Bournemouth,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-78,2022-10-15,Bournemouth,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-79,2022-10-19,Bournemouth,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-80,2022-10-24,Bournemouth,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-81,2022-10-29,Bournemouth,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-82,2022-11-05,Bournemouth,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-83,2022-11-12,Bournemouth,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-84,2022-12-31,Bournemouth,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-85,2022-01-02,Brentford,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-86,2022-01-11,Brentford,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-87,2022-01-16,Brentford,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-88,2022-01-19,Brentford,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-89,2022-01-22,Brentford,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-90,2022-02-09,Brentford,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-91,2022-02-12,Brentford,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-92,2022-02-19,Brentford,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-93,2022-02-26,Brentford,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-94,2022-03-05,Brentford,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-95,2022-03-12,Brentford,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-96,2022-03-20,Brentford,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-97,2022-04-02,Brentford,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-98,2022-04-10,Brentford,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-99,2022-04-16,Brentford,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-100,2022-04-23,Brentford,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-101,2022-05-02,Brentford,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-102,2022-05-07,Brentford,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-103,2022-05-15,Brentford,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-104,2022-05-22,Brentford,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-105,2022-08-07,Brentford,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-106,2022-08-13,Brentford,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-107,2022-08-20,Brentford,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-108,2022-08-27,Brentford,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-109,2022-08-30,Brentford,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-110,2022-09-03,Brentford,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-111,2022-09-18,Brentford,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-112,2022-10-01,Brentford,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-113,2022-10-08,Brentford,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-114,2022-10-14,Brentford,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-115,2022-10-19,Brentford,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-116,2022-10-23,Brentford,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-117,2022-10-29,Brentford,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-118,2022-11-05,Brentford,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-119,2022-11-12,Brentford,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-120,2022-12-26,Brentford,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-121,2022-01-02,Brighton,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-122,2022-01-14,Brighton,Crystal Palace,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-123,2022-01-18,Brighton,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-124,2022-01-23,Brighton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-125,2022-02-12,Brighton,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-126,2022-02-15,Brighton,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-127,2022-02-19,Brighton,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-128,2022-02-26,Brighton,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-129,2022-03-05,Brighton,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-130,2022-03-12,Brighton,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-131,2022-03-16,Brighton,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-132,2022-04-02,Brighton,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-133,2022-04-09,Brighton,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-134,2022-04-16,Brighton,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-135,2022-04-20,Brighton,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-136,2022-04-24,Brighton,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-137,2022-04-30,Brighton,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-138,2022-05-07,Brighton,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-139,2022-05-15,Brighton,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-140,2022-05-22,Brighton,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-141,2022-08-07,Brighton,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-142,2022-08-13,Brighton,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-143,2022-08-21,Brighton,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-144,2022-08-27,Brighton,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-145,2022-08-30,Brighton,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-146,2022-09-04,Brighton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-147,2022-10-01,Brighton,Liverpool,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-148,2022-10-08,Brighton,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-149,2022-10-14,Brighton,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-150,2022-10-18,Brighton,Nottingham Forest,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-151,2022-10-22,Brighton,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-152,2022-10-29,Brighton,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-153,2022-11-05,Brighton,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-154,2022-11-13,Brighton,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-155,2022-12-31,Brighton,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-156,2022-01-02,Burnley,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-157,2022-01-23,Burnley,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-158,2022-02-05,Burnley,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-159,2022-02-08,Burnley,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-160,2022-02-13,Burnley,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-161,2022-02-19,Burnley,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-162,2022-02-23,Burnley,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-163,2022-02-26,Burnley,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-164,2022-03-01,Burnley,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-165,2022-03-05,Burnley,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-166,2022-03-12,Burnley,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-167,2022-04-02,Burnley,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-168,2022-04-06,Burnley,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-169,2022-04-10,Burnley,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-170,2022-04-17,Burnley,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-171,2022-04-21,Burnley,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-172,2022-04-24,Burnley,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-173,2022-04-30,Burnley,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-174,2022-05-07,Burnley,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-175,2022-05-15,Burnley,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-176,2022-05-19,Burnley,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-177,2022-05-22,Burnley,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-178,2022-01-02,Chelsea,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-179,2022-01-15,Chelsea,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-180,2022-01-18,Chelsea,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-181,2022-01-23,Chelsea,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-182,2022-02-19,Chelsea,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-183,2022-03-05,Chelsea,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-184,2022-03-10,Chelsea,Norwich City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-185,2022-03-13,Chelsea,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-186,2022-04-02,Chelsea,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-187,2022-04-09,Chelsea,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-188,2022-04-20,Chelsea,Arsenal,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-189,2022-04-24,Chelsea,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-190,2022-04-28,Chelsea,Manchester United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-191,2022-05-01,Chelsea,Everton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-192,2022-05-07,Chelsea,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-193,2022-05-11,Chelsea,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-194,2022-05-19,Chelsea,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-195,2022-05-22,Chelsea,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-196,2022-08-06,Chelsea,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-197,2022-08-14,Chelsea,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-198,2022-08-21,Chelsea,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-199,2022-08-27,Chelsea,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-200,2022-08-30,Chelsea,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-201,2022-09-03,Chelsea,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-202,2022-10-01,Chelsea,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-203,2022-10-08,Chelsea,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-204,2022-10-16,Chelsea,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-205,2022-10-19,Chelsea,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-206,2022-10-22,Chelsea,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-207,2022-10-29,Chelsea,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-208,2022-11-06,Chelsea,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-209,2022-11-12,Chelsea,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-210,2022-12-27,Chelsea,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-211,2022-01-14,Crystal Palace,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-212,2022-01-23,Crystal Palace,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-213,2022-02-09,Crystal Palace,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-214,2022-02-12,Crystal Palace,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-215,2022-02-19,Crystal Palace,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-216,2022-02-23,Crystal Palace,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-217,2022-02-26,Crystal Palace,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-218,2022-03-05,Crystal Palace,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-219,2022-03-14,Crystal Palace,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-220,2022-04-04,Crystal Palace,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-221,2022-04-10,Crystal Palace,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-222,2022-04-20,Crystal Palace,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-223,2022-04-25,Crystal Palace,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-224,2022-04-30,Crystal Palace,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-225,2022-05-07,Crystal Palace,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-226,2022-05-15,Crystal Palace,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-227,2022-05-19,Crystal Palace,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-228,2022-05-22,Crystal Palace,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-229,2022-08-05,Crystal Palace,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-230,2022-08-15,Crystal Palace,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-231,2022-08-20,Crystal Palace,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-232,2022-08-27,Crystal Palace,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-233,2022-08-30,Crystal Palace,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-234,2022-09-03,Crystal Palace,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-235,2022-10-01,Crystal Palace,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-236,2022-10-09,Crystal Palace,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-237,2022-10-15,Crystal Palace,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-238,2022-10-18,Crystal Palace,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-239,2022-10-22,Crystal Palace,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-240,2022-10-29,Crystal Palace,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-241,2022-11-06,Crystal Palace,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-242,2022-11-12,Crystal Palace,Nottingham Forest,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-243,2022-12-26,Crystal Palace,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-244,2022-01-02,Everton,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-245,2022-01-15,Everton,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-246,2022-01-22,Everton,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-247,2022-02-08,Everton,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-248,2022-02-12,Everton,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-249,2022-02-19,Everton,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-250,2022-02-26,Everton,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-251,2022-03-07,Everton,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-252,2022-03-13,Everton,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-253,2022-03-17,Everton,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-254,2022-04-03,Everton,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-255,2022-04-06,Everton,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-256,2022-04-09,Everton,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-257,2022-04-20,Everton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-258,2022-04-24,Everton,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-259,2022-05-01,Everton,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-260,2022-05-08,Everton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-261,2022-05-11,Everton,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-262,2022-05-15,Everton,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-263,2022-05-19,Everton,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-264,2022-05-22,Everton,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-265,2022-08-06,Everton,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-266,2022-08-13,Everton,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-267,2022-08-20,Everton,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-268,2022-08-27,Everton,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-269,2022-08-30,Everton,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-270,2022-09-03,Everton,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-271,2022-09-18,Everton,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-272,2022-10-01,Everton,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-273,2022-10-09,Everton,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-274,2022-10-15,Everton,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-275,2022-10-19,Everton,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-276,2022-10-22,Everton,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-277,2022-10-29,Everton,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-278,2022-11-05,Everton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-279,2022-11-12,Everton,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-280,2022-12-26,Everton,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-281,2022-08-06,Fulham,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-282,2022-08-13,Fulham,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-283,2022-08-20,Fulham,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-284,2022-08-27,Fulham,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-285,2022-08-30,Fulham,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-286,2022-09-03,Fulham,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-287,2022-09-16,Fulham,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-288,2022-10-01,Fulham,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-289,2022-10-09,Fulham,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-290,2022-10-15,Fulham,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-291,2022-10-20,Fulham,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-292,2022-10-23,Fulham,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-293,2022-10-29,Fulham,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-294,2022-11-05,Fulham,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-295,2022-11-13,Fulham,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-296,2022-12-31,Fulham,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-297,2022-01-02,Leeds United,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-298,2022-01-16,Leeds United,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-299,2022-01-22,Leeds United,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-300,2022-02-09,Leeds United,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-301,2022-02-12,Leeds United,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-302,2022-02-20,Leeds United,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-303,2022-02-23,Leeds United,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-304,2022-02-26,Leeds United,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-305,2022-03-05,Leeds United,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-306,2022-03-10,Leeds United,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-307,2022-03-13,Leeds United,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-308,2022-03-18,Leeds United,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-309,2022-04-02,Leeds United,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-310,2022-04-09,Leeds United,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-311,2022-04-25,Leeds United,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-312,2022-04-30,Leeds United,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-313,2022-05-08,Leeds United,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-314,2022-05-11,Leeds United,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-315,2022-05-15,Leeds United,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-316,2022-05-22,Leeds United,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-317,2022-08-06,Leeds United,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-318,2022-08-13,Leeds United,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-319,2022-08-21,Leeds United,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-320,2022-08-27,Leeds United,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-321,2022-08-30,Leeds United,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-322,2022-09-03,Leeds United,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-323,2022-10-02,Leeds United,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-324,2022-10-09,Leeds United,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-325,2022-10-16,Leeds United,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-326,2022-10-20,Leeds United,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-327,2022-10-23,Leeds United,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-328,2022-10-29,Leeds United,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-329,2022-11-05,Leeds United,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-330,2022-11-12,Leeds United,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-331,2022-12-28,Leeds United,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-332,2022-01-19,Leicester City,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-333,2022-01-23,Leicester City,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-334,2022-02-10,Leicester City,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-335,2022-02-13,Leicester City,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-336,2022-02-20,Leicester City,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-337,2022-03-01,Leicester City,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-338,2022-03-05,Leicester City,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-339,2022-03-13,Leicester City,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-340,2022-03-20,Leicester City,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-341,2022-04-02,Leicester City,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-342,2022-04-10,Leicester City,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-343,2022-04-17,Leicester City,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-344,2022-04-20,Leicester City,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-345,2022-04-23,Leicester City,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-346,2022-05-01,Leicester City,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-347,2022-05-08,Leicester City,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-348,2022-05-11,Leicester City,Norwich City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-349,2022-05-15,Leicester City,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-350,2022-05-19,Leicester City,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-351,2022-05-22,Leicester City,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-352,2022-08-07,Leicester City,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-353,2022-08-13,Leicester City,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-354,2022-08-20,Leicester City,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-355,2022-08-27,Leicester City,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-356,2022-09-01,Leicester City,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-357,2022-09-04,Leicester City,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-358,2022-09-17,Leicester City,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-359,2022-10-03,Leicester City,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-360,2022-10-08,Leicester City,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-361,2022-10-15,Leicester City,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-362,2022-10-20,Leicester City,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-363,2022-10-23,Leicester City,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-364,2022-10-29,Leicester City,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-365,2022-11-05,Leicester City,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-366,2022-11-12,Leicester City,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-367,2022-12-26,Leicester City,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-368,2022-01-02,Liverpool,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-369,2022-01-16,Liverpool,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-370,2022-01-23,Liverpool,Crystal Palace,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-371,2022-02-10,Liverpool,Leicester City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-372,2022-02-13,Liverpool,Burnley,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-373,2022-02-19,Liverpool,Norwich City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-374,2022-02-23,Liverpool,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-375,2022-03-05,Liverpool,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-376,2022-03-12,Liverpool,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-377,2022-03-16,Liverpool,Arsenal,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-378,2022-04-02,Liverpool,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-379,2022-04-10,Liverpool,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-380,2022-04-19,Liverpool,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-381,2022-04-24,Liverpool,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-382,2022-04-30,Liverpool,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-383,2022-05-07,Liverpool,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-384,2022-05-10,Liverpool,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-385,2022-05-17,Liverpool,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-386,2022-05-22,Liverpool,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-387,2022-08-06,Liverpool,Fulham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-388,2022-08-15,Liverpool,Crystal Palace,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-389,2022-08-22,Liverpool,Manchester United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-390,2022-08-27,Liverpool,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-391,2022-08-31,Liverpool,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-392,2022-09-03,Liverpool,Everton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-393,2022-10-01,Liverpool,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-394,2022-10-09,Liverpool,Arsenal,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-395,2022-10-16,Liverpool,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-396,2022-10-19,Liverpool,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-397,2022-10-22,Liverpool,Nottingham Forest,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-398,2022-10-29,Liverpool,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-399,2022-11-06,Liverpool,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-400,2022-11-12,Liverpool,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-401,2022-12-30,Liverpool,Leicester City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-402,2022-01-15,Manchester City,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-403,2022-01-22,Manchester City,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-404,2022-02-09,Manchester City,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-405,2022-02-12,Manchester City,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-406,2022-02-19,Manchester City,Tottenham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-407,2022-02-26,Manchester City,Everton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-408,2022-03-06,Manchester City,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-409,2022-03-14,Manchester City,Crystal Palace,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-410,2022-04-02,Manchester City,Burnley,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-411,2022-04-10,Manchester City,Liverpool,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-412,2022-04-20,Manchester City,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-413,2022-04-23,Manchester City,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-414,2022-04-30,Manchester City,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-415,2022-05-08,Manchester City,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-416,2022-05-11,Manchester City,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-417,2022-05-15,Manchester City,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-418,2022-05-22,Manchester City,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-419,2022-08-07,Manchester City,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-420,2022-08-13,Manchester City,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-421,2022-08-21,Manchester City,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-422,2022-08-27,Manchester City,Crystal Palace,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-423,2022-08-31,Manchester City,Nottingham Forest,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-424,2022-09-03,Manchester City,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-425,2022-09-17,Manchester City,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-426,2022-10-02,Manchester City,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-427,2022-10-08,Manchester City,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-428,2022-10-16,Manchester City,Liverpool,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-429,2022-10-22,Manchester City,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-430,2022-10-29,Manchester City,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-431,2022-11-05,Manchester City,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-432,2022-11-12,Manchester City,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-433,2022-12-31,Manchester City,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-434,2022-01-03,Manchester United,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-435,2022-01-15,Manchester United,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-436,2022-01-19,Manchester United,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-437,2022-01-22,Manchester United,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-438,2022-02-08,Manchester United,Burnley,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-439,2022-02-12,Manchester United,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-440,2022-02-15,Manchester United,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-441,2022-02-20,Manchester United,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-442,2022-02-26,Manchester United,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-443,2022-03-06,Manchester United,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-444,2022-03-12,Manchester United,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-445,2022-04-02,Manchester United,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-446,2022-04-09,Manchester United,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-447,2022-04-16,Manchester United,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-448,2022-04-19,Manchester United,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-449,2022-04-23,Manchester United,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-450,2022-04-28,Manchester United,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-451,2022-05-02,Manchester United,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-452,2022-05-07,Manchester United,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-453,2022-05-22,Manchester United,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-454,2022-08-07,Manchester United,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-455,2022-08-13,Manchester United,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-456,2022-08-22,Manchester United,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-457,2022-08-27,Manchester United,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-458,2022-09-01,Manchester United,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-459,2022-09-04,Manchester United,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-460,2022-10-02,Manchester United,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-461,2022-10-09,Manchester United,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-462,2022-10-16,Manchester United,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-463,2022-10-19,Manchester United,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-464,2022-10-22,Manchester United,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-465,2022-10-30,Manchester United,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-466,2022-11-06,Manchester United,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-467,2022-11-13,Manchester United,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-468,2022-12-27,Manchester United,Nottingham Forest,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-469,2022-01-15,Newcastle United,Watford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-470,2022-01-22,Newcastle United,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-471,2022-02-08,Newcastle United,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-472,2022-02-13,Newcastle United,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-473,2022-02-19,Newcastle United,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-474,2022-02-26,Newcastle United,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-475,2022-03-05,Newcastle United,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-476,2022-03-10,Newcastle United,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-477,2022-03-13,Newcastle United,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-478,2022-03-17,Newcastle United,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-479,2022-04-03,Newcastle United,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-480,2022-04-08,Newcastle United,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-481,2022-04-17,Newcastle United,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-482,2022-04-20,Newcastle United,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-483,2022-04-23,Newcastle United,Norwich City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-484,2022-04-30,Newcastle United,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-485,2022-05-08,Newcastle United,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-486,2022-05-16,Newcastle United,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-487,2022-05-22,Newcastle United,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-488,2022-08-06,Newcastle United,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-489,2022-08-13,Newcastle United,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-490,2022-08-21,Newcastle United,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-491,2022-08-28,Newcastle United,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-492,2022-08-31,Newcastle United,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-493,2022-09-03,Newcastle United,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-494,2022-09-17,Newcastle United,Bournemouth,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-495,2022-10-01,Newcastle United,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-496,2022-10-08,Newcastle United,Brentford,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-497,2022-10-16,Newcastle United,Manchester United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-498,2022-10-19,Newcastle United,Everton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-499,2022-10-23,Newcastle United,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-500,2022-10-29,Newcastle United,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-501,2022-11-06,Newcastle United,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-502,2022-11-12,Newcastle United,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-503,2022-12-31,Newcastle United,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-504,2022-01-12,Norwich City,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-505,2022-01-15,Norwich City,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-506,2022-01-21,Norwich City,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-507,2022-02-09,Norwich City,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-508,2022-02-12,Norwich City,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-509,2022-02-19,Norwich City,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-510,2022-02-25,Norwich City,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-511,2022-03-05,Norwich City,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-512,2022-03-10,Norwich City,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-513,2022-03-13,Norwich City,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-514,2022-04-02,Norwich City,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-515,2022-04-10,Norwich City,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-516,2022-04-16,Norwich City,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-517,2022-04-23,Norwich City,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-518,2022-04-30,Norwich City,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-519,2022-05-08,Norwich City,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-520,2022-05-11,Norwich City,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-521,2022-05-15,Norwich City,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-522,2022-05-22,Norwich City,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-523,2022-08-28,Nottingham Forest,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-524,2022-08-31,Nottingham Forest,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-525,2022-09-03,Nottingham Forest,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-526,2022-09-16,Nottingham Forest,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-527,2022-10-03,Nottingham Forest,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-528,2022-10-10,Nottingham Forest,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-529,2022-10-15,Nottingham Forest,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-530,2022-10-18,Nottingham Forest,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-531,2022-10-22,Nottingham Forest,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-532,2022-10-30,Nottingham Forest,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-533,2022-11-05,Nottingham Forest,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-534,2022-11-12,Nottingham Forest,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-535,2023-01-01,Nottingham Forest,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-536,2022-01-11,Southampton,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-537,2022-01-15,Southampton,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-538,2022-01-22,Southampton,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-539,2022-02-09,Southampton,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-540,2022-02-12,Southampton,Manchester United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-541,2022-02-19,Southampton,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-542,2022-02-25,Southampton,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-543,2022-03-05,Southampton,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-544,2022-03-10,Southampton,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-545,2022-03-13,Southampton,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-546,2022-04-02,Southampton,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-547,2022-04-09,Southampton,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-548,2022-04-16,Southampton,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-549,2022-04-21,Southampton,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-550,2022-04-24,Southampton,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-551,2022-04-30,Southampton,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-552,2022-05-07,Southampton,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-553,2022-05-17,Southampton,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-554,2022-05-22,Southampton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-555,2022-08-06,Southampton,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-556,2022-08-13,Southampton,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-557,2022-08-20,Southampton,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-558,2022-08-27,Southampton,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-559,2022-08-30,Southampton,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-560,2022-09-03,Southampton,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-561,2022-09-16,Southampton,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-562,2022-10-01,Southampton,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-563,2022-10-08,Southampton,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-564,2022-10-16,Southampton,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-565,2022-10-19,Southampton,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-566,2022-10-23,Southampton,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-567,2022-10-29,Southampton,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-568,2022-11-06,Southampton,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-569,2022-11-12,Southampton,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-570,2022-12-26,Southampton,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-571,2022-01-19,Tottenham,Leicester City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-572,2022-01-23,Tottenham,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-573,2022-02-09,Tottenham,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-574,2022-02-13,Tottenham,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-575,2022-02-19,Tottenham,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-576,2022-02-23,Tottenham,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-577,2022-02-26,Tottenham,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-578,2022-03-07,Tottenham,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-579,2022-03-12,Tottenham,Manchester United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-580,2022-03-16,Tottenham,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-581,2022-03-20,Tottenham,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-582,2022-04-03,Tottenham,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-583,2022-04-09,Tottenham,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-584,2022-04-16,Tottenham,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-585,2022-04-23,Tottenham,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-586,2022-05-01,Tottenham,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-587,2022-05-07,Tottenham,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-588,2022-05-12,Tottenham,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-589,2022-05-15,Tottenham,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-590,2022-05-22,Tottenham,Norwich City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-591,2022-08-06,Tottenham,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-592,2022-08-14,Tottenham,Chelsea,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-593,2022-08-20,Tottenham,Wolves,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-594,2022-08-28,Tottenham,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-595,2022-08-31,Tottenham,West Ham,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-596,2022-09-03,Tottenham,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-597,2022-09-17,Tottenham,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-598,2022-10-01,Tottenham,Arsenal,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-599,2022-10-08,Tottenham,Brighton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-600,2022-10-15,Tottenham,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-601,2022-10-19,Tottenham,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-602,2022-10-23,Tottenham,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-603,2022-10-29,Tottenham,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-604,2022-11-06,Tottenham,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-605,2022-11-12,Tottenham,Leeds United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-606,2023-01-01,Tottenham,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-607,2022-01-15,Watford,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-608,2022-01-21,Watford,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-609,2022-02-05,Watford,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-610,2022-02-08,Watford,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-611,2022-02-12,Watford,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-612,2022-02-19,Watford,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-613,2022-02-23,Watford,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-614,2022-02-26,Watford,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-615,2022-03-06,Watford,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-616,2022-03-10,Watford,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-617,2022-03-13,Watford,Southampton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-618,2022-04-02,Watford,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-619,2022-04-09,Watford,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-620,2022-04-16,Watford,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-621,2022-04-23,Watford,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-622,2022-04-30,Watford,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-623,2022-05-07,Watford,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-624,2022-05-11,Watford,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-625,2022-05-15,Watford,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-626,2022-05-22,Watford,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-627,2022-01-12,West Ham,Norwich City,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-628,2022-01-16,West Ham,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-629,2022-01-22,West Ham,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-630,2022-02-08,West Ham,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-631,2022-02-13,West Ham,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-632,2022-02-19,West Ham,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-633,2022-02-27,West Ham,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-634,2022-03-05,West Ham,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-635,2022-03-13,West Ham,Aston Villa,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-636,2022-03-20,West Ham,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-637,2022-04-03,West Ham,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-638,2022-04-10,West Ham,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-639,2022-04-17,West Ham,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-640,2022-04-24,West Ham,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-641,2022-05-01,West Ham,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-642,2022-05-08,West Ham,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-643,2022-05-15,West Ham,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-644,2022-05-22,West Ham,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-645,2022-08-07,West Ham,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-646,2022-08-14,West Ham,Nottingham Forest,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-647,2022-08-21,West Ham,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-648,2022-08-28,West Ham,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-649,2022-08-31,West Ham,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-650,2022-09-03,West Ham,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-651,2022-09-18,West Ham,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-652,2022-10-01,West Ham,Wolves,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-653,2022-10-09,West Ham,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-654,2022-10-16,West Ham,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-655,2022-10-19,West Ham,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-656,2022-10-24,West Ham,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-657,2022-10-30,West Ham,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-658,2022-11-06,West Ham,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-659,2022-11-12,West Ham,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-660,2022-12-30,West Ham,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-661,2022-01-03,Wolves,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-662,2022-01-15,Wolves,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-663,2022-01-22,Wolves,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-664,2022-02-10,Wolves,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-665,2022-02-13,Wolves,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-666,2022-02-20,Wolves,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-667,2022-02-24,Wolves,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-668,2022-02-27,Wolves,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-669,2022-03-05,Wolves,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-670,2022-03-10,Wolves,Watford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-671,2022-03-13,Wolves,Everton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-672,2022-03-18,Wolves,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-673,2022-04-02,Wolves,Aston Villa,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-674,2022-04-08,Wolves,Newcastle United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-675,2022-04-24,Wolves,Burnley,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-676,2022-04-30,Wolves,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-677,2022-05-07,Wolves,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-678,2022-05-11,Wolves,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-679,2022-05-15,Wolves,Norwich City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-680,2022-05-22,Wolves,Liverpool,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-681,2022-08-06,Wolves,Leeds United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-682,2022-08-13,Wolves,Fulham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-683,2022-08-20,Wolves,Tottenham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-684,2022-08-28,Wolves,Newcastle United,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-685,2022-08-31,Wolves,Bournemouth,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-686,2022-09-03,Wolves,Southampton,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-687,2022-09-17,Wolves,Manchester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-688,2022-10-01,Wolves,West Ham,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-689,2022-10-08,Wolves,Chelsea,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-690,2022-10-15,Wolves,Nottingham Forest,win,on 2022-12-26 00:00:00. the result will be win for Arsenal
-691,2022-10-18,Wolves,Crystal Palace,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-692,2022-10-23,Wolves,Leicester City,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-693,2022-10-29,Wolves,Brentford,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-694,2022-11-05,Wolves,Brighton,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-695,2022-11-12,Wolves,Arsenal,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
-696,2022-12-31,Wolves,Manchester United,lose or draw,on 2022-12-26 00:00:00. the result will be win for Arsenal
+,date,team,opponent,predicted
+0,2022-01-23,Arsenal,Burnley,win
+1,2022-02-10,Arsenal,Wolves,lose or draw
+2,2022-02-19,Arsenal,Brentford,lose or draw
+3,2022-02-24,Arsenal,Wolves,win
+4,2022-03-06,Arsenal,Watford,win
+5,2022-03-13,Arsenal,Leicester City,win
+6,2022-03-16,Arsenal,Liverpool,lose or draw
+7,2022-03-19,Arsenal,Aston Villa,lose or draw
+8,2022-04-04,Arsenal,Crystal Palace,lose or draw
+9,2022-04-09,Arsenal,Brighton,lose or draw
+10,2022-04-16,Arsenal,Southampton,lose or draw
+11,2022-04-20,Arsenal,Chelsea,lose or draw
+12,2022-04-23,Arsenal,Manchester United,lose or draw
+13,2022-05-01,Arsenal,West Ham,lose or draw
+14,2022-05-08,Arsenal,Leeds United,lose or draw
+15,2022-05-12,Arsenal,Tottenham,lose or draw
+16,2022-05-16,Arsenal,Newcastle United,lose or draw
+17,2022-05-22,Arsenal,Everton,lose or draw
+18,2022-08-05,Arsenal,Crystal Palace,lose or draw
+19,2022-08-13,Arsenal,Leicester City,lose or draw
+20,2022-08-20,Arsenal,Bournemouth,win
+21,2022-08-27,Arsenal,Fulham,win
+22,2022-08-31,Arsenal,Aston Villa,win
+23,2022-09-04,Arsenal,Manchester United,win
+24,2022-09-18,Arsenal,Brentford,win
+25,2022-10-01,Arsenal,Tottenham,win
+26,2022-10-09,Arsenal,Liverpool,lose or draw
+27,2022-10-16,Arsenal,Leeds United,lose or draw
+28,2022-10-23,Arsenal,Southampton,win
+29,2022-10-30,Arsenal,Nottingham Forest,lose or draw
+30,2022-11-06,Arsenal,Chelsea,win
+31,2022-11-12,Arsenal,Wolves,win
+32,2022-12-26,Arsenal,West Ham,win
+33,2022-01-02,Aston Villa,Brentford,lose or draw
+34,2022-01-15,Aston Villa,Manchester United,lose or draw
+35,2022-01-22,Aston Villa,Everton,lose or draw
+36,2022-02-09,Aston Villa,Leeds United,lose or draw
+37,2022-02-13,Aston Villa,Newcastle United,lose or draw
+38,2022-02-19,Aston Villa,Watford,lose or draw
+39,2022-02-26,Aston Villa,Brighton,lose or draw
+40,2022-03-05,Aston Villa,Southampton,win
+41,2022-03-10,Aston Villa,Leeds United,win
+42,2022-03-13,Aston Villa,West Ham,win
+43,2022-03-19,Aston Villa,Arsenal,win
+44,2022-04-02,Aston Villa,Wolves,lose or draw
+45,2022-04-09,Aston Villa,Tottenham,lose or draw
+46,2022-04-23,Aston Villa,Leicester City,lose or draw
+47,2022-04-30,Aston Villa,Norwich City,lose or draw
+48,2022-05-07,Aston Villa,Burnley,lose or draw
+49,2022-05-10,Aston Villa,Liverpool,lose or draw
+50,2022-05-15,Aston Villa,Crystal Palace,lose or draw
+51,2022-05-19,Aston Villa,Burnley,lose or draw
+52,2022-05-22,Aston Villa,Manchester City,lose or draw
+53,2022-08-06,Aston Villa,Bournemouth,lose or draw
+54,2022-08-13,Aston Villa,Everton,lose or draw
+55,2022-08-20,Aston Villa,Crystal Palace,lose or draw
+56,2022-08-28,Aston Villa,West Ham,lose or draw
+57,2022-08-31,Aston Villa,Arsenal,lose or draw
+58,2022-09-03,Aston Villa,Manchester City,lose or draw
+59,2022-09-16,Aston Villa,Southampton,lose or draw
+60,2022-10-02,Aston Villa,Leeds United,lose or draw
+61,2022-10-10,Aston Villa,Nottingham Forest,lose or draw
+62,2022-10-16,Aston Villa,Chelsea,win
+63,2022-10-20,Aston Villa,Fulham,lose or draw
+64,2022-10-23,Aston Villa,Brentford,win
+65,2022-10-29,Aston Villa,Newcastle United,lose or draw
+66,2022-11-06,Aston Villa,Manchester United,lose or draw
+67,2022-11-13,Aston Villa,Brighton,lose or draw
+68,2022-12-26,Aston Villa,Liverpool,lose or draw
+69,2022-08-06,Bournemouth,Aston Villa,lose or draw
+70,2022-08-13,Bournemouth,Manchester City,lose or draw
+71,2022-08-20,Bournemouth,Arsenal,lose or draw
+72,2022-08-27,Bournemouth,Liverpool,lose or draw
+73,2022-08-31,Bournemouth,Wolves,lose or draw
+74,2022-09-03,Bournemouth,Nottingham Forest,lose or draw
+75,2022-09-17,Bournemouth,Newcastle United,lose or draw
+76,2022-10-01,Bournemouth,Brentford,lose or draw
+77,2022-10-08,Bournemouth,Leicester City,lose or draw
+78,2022-10-15,Bournemouth,Fulham,lose or draw
+79,2022-10-19,Bournemouth,Southampton,lose or draw
+80,2022-10-24,Bournemouth,West Ham,lose or draw
+81,2022-10-29,Bournemouth,Tottenham,lose or draw
+82,2022-11-05,Bournemouth,Leeds United,lose or draw
+83,2022-11-12,Bournemouth,Everton,lose or draw
+84,2022-12-31,Bournemouth,Crystal Palace,lose or draw
+85,2022-01-02,Brentford,Aston Villa,lose or draw
+86,2022-01-11,Brentford,Southampton,lose or draw
+87,2022-01-16,Brentford,Liverpool,lose or draw
+88,2022-01-19,Brentford,Manchester United,lose or draw
+89,2022-01-22,Brentford,Wolves,lose or draw
+90,2022-02-09,Brentford,Manchester City,lose or draw
+91,2022-02-12,Brentford,Crystal Palace,lose or draw
+92,2022-02-19,Brentford,Arsenal,lose or draw
+93,2022-02-26,Brentford,Newcastle United,lose or draw
+94,2022-03-05,Brentford,Norwich City,lose or draw
+95,2022-03-12,Brentford,Burnley,lose or draw
+96,2022-03-20,Brentford,Leicester City,lose or draw
+97,2022-04-02,Brentford,Chelsea,lose or draw
+98,2022-04-10,Brentford,West Ham,lose or draw
+99,2022-04-16,Brentford,Watford,win
+100,2022-04-23,Brentford,Tottenham,lose or draw
+101,2022-05-02,Brentford,Manchester United,lose or draw
+102,2022-05-07,Brentford,Southampton,lose or draw
+103,2022-05-15,Brentford,Everton,lose or draw
+104,2022-05-22,Brentford,Leeds United,lose or draw
+105,2022-08-07,Brentford,Leicester City,lose or draw
+106,2022-08-13,Brentford,Manchester United,lose or draw
+107,2022-08-20,Brentford,Fulham,lose or draw
+108,2022-08-27,Brentford,Everton,lose or draw
+109,2022-08-30,Brentford,Crystal Palace,lose or draw
+110,2022-09-03,Brentford,Leeds United,lose or draw
+111,2022-09-18,Brentford,Arsenal,lose or draw
+112,2022-10-01,Brentford,Bournemouth,lose or draw
+113,2022-10-08,Brentford,Newcastle United,lose or draw
+114,2022-10-14,Brentford,Brighton,lose or draw
+115,2022-10-19,Brentford,Chelsea,lose or draw
+116,2022-10-23,Brentford,Aston Villa,lose or draw
+117,2022-10-29,Brentford,Wolves,lose or draw
+118,2022-11-05,Brentford,Nottingham Forest,lose or draw
+119,2022-11-12,Brentford,Manchester City,lose or draw
+120,2022-12-26,Brentford,Tottenham,win
+121,2022-01-02,Brighton,Everton,lose or draw
+122,2022-01-14,Brighton,Crystal Palace,win
+123,2022-01-18,Brighton,Chelsea,win
+124,2022-01-23,Brighton,Leicester City,lose or draw
+125,2022-02-12,Brighton,Watford,lose or draw
+126,2022-02-15,Brighton,Manchester United,lose or draw
+127,2022-02-19,Brighton,Burnley,lose or draw
+128,2022-02-26,Brighton,Aston Villa,lose or draw
+129,2022-03-05,Brighton,Newcastle United,lose or draw
+130,2022-03-12,Brighton,Liverpool,lose or draw
+131,2022-03-16,Brighton,Tottenham,lose or draw
+132,2022-04-02,Brighton,Norwich City,lose or draw
+133,2022-04-09,Brighton,Arsenal,lose or draw
+134,2022-04-16,Brighton,Tottenham,win
+135,2022-04-20,Brighton,Manchester City,lose or draw
+136,2022-04-24,Brighton,Southampton,lose or draw
+137,2022-04-30,Brighton,Wolves,lose or draw
+138,2022-05-07,Brighton,Manchester United,lose or draw
+139,2022-05-15,Brighton,Leeds United,win
+140,2022-05-22,Brighton,West Ham,win
+141,2022-08-07,Brighton,Manchester United,lose or draw
+142,2022-08-13,Brighton,Newcastle United,win
+143,2022-08-21,Brighton,West Ham,lose or draw
+144,2022-08-27,Brighton,Leeds United,lose or draw
+145,2022-08-30,Brighton,Fulham,lose or draw
+146,2022-09-04,Brighton,Leicester City,lose or draw
+147,2022-10-01,Brighton,Liverpool,win
+148,2022-10-08,Brighton,Tottenham,win
+149,2022-10-14,Brighton,Brentford,win
+150,2022-10-18,Brighton,Nottingham Forest,win
+151,2022-10-22,Brighton,Manchester City,lose or draw
+152,2022-10-29,Brighton,Chelsea,lose or draw
+153,2022-11-05,Brighton,Wolves,lose or draw
+154,2022-11-13,Brighton,Aston Villa,lose or draw
+155,2022-12-31,Brighton,Arsenal,lose or draw
+156,2022-01-02,Burnley,Leeds United,lose or draw
+157,2022-01-23,Burnley,Arsenal,lose or draw
+158,2022-02-05,Burnley,Watford,lose or draw
+159,2022-02-08,Burnley,Manchester United,lose or draw
+160,2022-02-13,Burnley,Liverpool,lose or draw
+161,2022-02-19,Burnley,Brighton,lose or draw
+162,2022-02-23,Burnley,Tottenham,lose or draw
+163,2022-02-26,Burnley,Crystal Palace,lose or draw
+164,2022-03-01,Burnley,Leicester City,lose or draw
+165,2022-03-05,Burnley,Chelsea,lose or draw
+166,2022-03-12,Burnley,Brentford,lose or draw
+167,2022-04-02,Burnley,Manchester City,lose or draw
+168,2022-04-06,Burnley,Everton,lose or draw
+169,2022-04-10,Burnley,Norwich City,lose or draw
+170,2022-04-17,Burnley,West Ham,lose or draw
+171,2022-04-21,Burnley,Southampton,lose or draw
+172,2022-04-24,Burnley,Wolves,lose or draw
+173,2022-04-30,Burnley,Watford,lose or draw
+174,2022-05-07,Burnley,Aston Villa,win
+175,2022-05-15,Burnley,Tottenham,win
+176,2022-05-19,Burnley,Aston Villa,lose or draw
+177,2022-05-22,Burnley,Newcastle United,lose or draw
+178,2022-01-02,Chelsea,Liverpool,lose or draw
+179,2022-01-15,Chelsea,Manchester City,lose or draw
+180,2022-01-18,Chelsea,Brighton,lose or draw
+181,2022-01-23,Chelsea,Tottenham,lose or draw
+182,2022-02-19,Chelsea,Crystal Palace,lose or draw
+183,2022-03-05,Chelsea,Burnley,lose or draw
+184,2022-03-10,Chelsea,Norwich City,win
+185,2022-03-13,Chelsea,Newcastle United,lose or draw
+186,2022-04-02,Chelsea,Brentford,win
+187,2022-04-09,Chelsea,Southampton,win
+188,2022-04-20,Chelsea,Arsenal,win
+189,2022-04-24,Chelsea,West Ham,win
+190,2022-04-28,Chelsea,Manchester United,win
+191,2022-05-01,Chelsea,Everton,win
+192,2022-05-07,Chelsea,Wolves,win
+193,2022-05-11,Chelsea,Leeds United,lose or draw
+194,2022-05-19,Chelsea,Leicester City,lose or draw
+195,2022-05-22,Chelsea,Watford,win
+196,2022-08-06,Chelsea,Everton,lose or draw
+197,2022-08-14,Chelsea,Tottenham,lose or draw
+198,2022-08-21,Chelsea,Leeds United,lose or draw
+199,2022-08-27,Chelsea,Leicester City,lose or draw
+200,2022-08-30,Chelsea,Southampton,lose or draw
+201,2022-09-03,Chelsea,West Ham,lose or draw
+202,2022-10-01,Chelsea,Crystal Palace,lose or draw
+203,2022-10-08,Chelsea,Wolves,lose or draw
+204,2022-10-16,Chelsea,Aston Villa,lose or draw
+205,2022-10-19,Chelsea,Brentford,win
+206,2022-10-22,Chelsea,Manchester United,lose or draw
+207,2022-10-29,Chelsea,Brighton,lose or draw
+208,2022-11-06,Chelsea,Arsenal,lose or draw
+209,2022-11-12,Chelsea,Newcastle United,lose or draw
+210,2022-12-27,Chelsea,Bournemouth,lose or draw
+211,2022-01-14,Crystal Palace,Brighton,lose or draw
+212,2022-01-23,Crystal Palace,Liverpool,lose or draw
+213,2022-02-09,Crystal Palace,Norwich City,lose or draw
+214,2022-02-12,Crystal Palace,Brentford,lose or draw
+215,2022-02-19,Crystal Palace,Chelsea,lose or draw
+216,2022-02-23,Crystal Palace,Watford,lose or draw
+217,2022-02-26,Crystal Palace,Burnley,lose or draw
+218,2022-03-05,Crystal Palace,Wolves,lose or draw
+219,2022-03-14,Crystal Palace,Manchester City,lose or draw
+220,2022-04-04,Crystal Palace,Arsenal,lose or draw
+221,2022-04-10,Crystal Palace,Leicester City,lose or draw
+222,2022-04-20,Crystal Palace,Newcastle United,lose or draw
+223,2022-04-25,Crystal Palace,Leeds United,lose or draw
+224,2022-04-30,Crystal Palace,Southampton,lose or draw
+225,2022-05-07,Crystal Palace,Watford,win
+226,2022-05-15,Crystal Palace,Aston Villa,win
+227,2022-05-19,Crystal Palace,Everton,lose or draw
+228,2022-05-22,Crystal Palace,Manchester United,lose or draw
+229,2022-08-05,Crystal Palace,Arsenal,lose or draw
+230,2022-08-15,Crystal Palace,Liverpool,lose or draw
+231,2022-08-20,Crystal Palace,Aston Villa,lose or draw
+232,2022-08-27,Crystal Palace,Manchester City,lose or draw
+233,2022-08-30,Crystal Palace,Brentford,lose or draw
+234,2022-09-03,Crystal Palace,Newcastle United,lose or draw
+235,2022-10-01,Crystal Palace,Chelsea,lose or draw
+236,2022-10-09,Crystal Palace,Leeds United,lose or draw
+237,2022-10-15,Crystal Palace,Leicester City,lose or draw
+238,2022-10-18,Crystal Palace,Wolves,lose or draw
+239,2022-10-22,Crystal Palace,Everton,lose or draw
+240,2022-10-29,Crystal Palace,Southampton,lose or draw
+241,2022-11-06,Crystal Palace,West Ham,lose or draw
+242,2022-11-12,Crystal Palace,Nottingham Forest,win
+243,2022-12-26,Crystal Palace,Fulham,lose or draw
+244,2022-01-02,Everton,Brighton,lose or draw
+245,2022-01-15,Everton,Norwich City,lose or draw
+246,2022-01-22,Everton,Aston Villa,lose or draw
+247,2022-02-08,Everton,Newcastle United,lose or draw
+248,2022-02-12,Everton,Leeds United,lose or draw
+249,2022-02-19,Everton,Southampton,win
+250,2022-02-26,Everton,Manchester City,lose or draw
+251,2022-03-07,Everton,Tottenham,lose or draw
+252,2022-03-13,Everton,Wolves,lose or draw
+253,2022-03-17,Everton,Newcastle United,lose or draw
+254,2022-04-03,Everton,West Ham,lose or draw
+255,2022-04-06,Everton,Burnley,lose or draw
+256,2022-04-09,Everton,Manchester United,lose or draw
+257,2022-04-20,Everton,Leicester City,lose or draw
+258,2022-04-24,Everton,Liverpool,lose or draw
+259,2022-05-01,Everton,Chelsea,lose or draw
+260,2022-05-08,Everton,Leicester City,lose or draw
+261,2022-05-11,Everton,Watford,lose or draw
+262,2022-05-15,Everton,Brentford,win
+263,2022-05-19,Everton,Crystal Palace,lose or draw
+264,2022-05-22,Everton,Arsenal,lose or draw
+265,2022-08-06,Everton,Chelsea,lose or draw
+266,2022-08-13,Everton,Aston Villa,lose or draw
+267,2022-08-20,Everton,Nottingham Forest,lose or draw
+268,2022-08-27,Everton,Brentford,lose or draw
+269,2022-08-30,Everton,Leeds United,lose or draw
+270,2022-09-03,Everton,Liverpool,lose or draw
+271,2022-09-18,Everton,West Ham,lose or draw
+272,2022-10-01,Everton,Southampton,lose or draw
+273,2022-10-09,Everton,Manchester United,lose or draw
+274,2022-10-15,Everton,Tottenham,lose or draw
+275,2022-10-19,Everton,Newcastle United,lose or draw
+276,2022-10-22,Everton,Crystal Palace,lose or draw
+277,2022-10-29,Everton,Fulham,lose or draw
+278,2022-11-05,Everton,Leicester City,lose or draw
+279,2022-11-12,Everton,Bournemouth,win
+280,2022-12-26,Everton,Wolves,lose or draw
+281,2022-08-06,Fulham,Liverpool,lose or draw
+282,2022-08-13,Fulham,Wolves,lose or draw
+283,2022-08-20,Fulham,Brentford,lose or draw
+284,2022-08-27,Fulham,Arsenal,lose or draw
+285,2022-08-30,Fulham,Brighton,win
+286,2022-09-03,Fulham,Tottenham,lose or draw
+287,2022-09-16,Fulham,Nottingham Forest,lose or draw
+288,2022-10-01,Fulham,Newcastle United,lose or draw
+289,2022-10-09,Fulham,West Ham,lose or draw
+290,2022-10-15,Fulham,Bournemouth,win
+291,2022-10-20,Fulham,Aston Villa,lose or draw
+292,2022-10-23,Fulham,Leeds United,lose or draw
+293,2022-10-29,Fulham,Everton,lose or draw
+294,2022-11-05,Fulham,Manchester City,lose or draw
+295,2022-11-13,Fulham,Manchester United,lose or draw
+296,2022-12-31,Fulham,Southampton,lose or draw
+297,2022-01-02,Leeds United,Burnley,lose or draw
+298,2022-01-16,Leeds United,West Ham,lose or draw
+299,2022-01-22,Leeds United,Newcastle United,lose or draw
+300,2022-02-09,Leeds United,Aston Villa,win
+301,2022-02-12,Leeds United,Everton,lose or draw
+302,2022-02-20,Leeds United,Manchester United,lose or draw
+303,2022-02-23,Leeds United,Liverpool,lose or draw
+304,2022-02-26,Leeds United,Tottenham,lose or draw
+305,2022-03-05,Leeds United,Leicester City,lose or draw
+306,2022-03-10,Leeds United,Aston Villa,win
+307,2022-03-13,Leeds United,Norwich City,lose or draw
+308,2022-03-18,Leeds United,Wolves,lose or draw
+309,2022-04-02,Leeds United,Southampton,lose or draw
+310,2022-04-09,Leeds United,Watford,win
+311,2022-04-25,Leeds United,Crystal Palace,lose or draw
+312,2022-04-30,Leeds United,Manchester City,lose or draw
+313,2022-05-08,Leeds United,Arsenal,lose or draw
+314,2022-05-11,Leeds United,Chelsea,lose or draw
+315,2022-05-15,Leeds United,Brighton,lose or draw
+316,2022-05-22,Leeds United,Brentford,lose or draw
+317,2022-08-06,Leeds United,Wolves,lose or draw
+318,2022-08-13,Leeds United,Southampton,lose or draw
+319,2022-08-21,Leeds United,Chelsea,lose or draw
+320,2022-08-27,Leeds United,Brighton,lose or draw
+321,2022-08-30,Leeds United,Everton,lose or draw
+322,2022-09-03,Leeds United,Brentford,lose or draw
+323,2022-10-02,Leeds United,Aston Villa,win
+324,2022-10-09,Leeds United,Crystal Palace,lose or draw
+325,2022-10-16,Leeds United,Arsenal,lose or draw
+326,2022-10-20,Leeds United,Leicester City,lose or draw
+327,2022-10-23,Leeds United,Fulham,lose or draw
+328,2022-10-29,Leeds United,Liverpool,lose or draw
+329,2022-11-05,Leeds United,Bournemouth,win
+330,2022-11-12,Leeds United,Tottenham,lose or draw
+331,2022-12-28,Leeds United,Manchester City,lose or draw
+332,2022-01-19,Leicester City,Tottenham,win
+333,2022-01-23,Leicester City,Brighton,lose or draw
+334,2022-02-10,Leicester City,Liverpool,lose or draw
+335,2022-02-13,Leicester City,West Ham,lose or draw
+336,2022-02-20,Leicester City,Wolves,lose or draw
+337,2022-03-01,Leicester City,Burnley,lose or draw
+338,2022-03-05,Leicester City,Leeds United,win
+339,2022-03-13,Leicester City,Arsenal,lose or draw
+340,2022-03-20,Leicester City,Brentford,win
+341,2022-04-02,Leicester City,Manchester United,lose or draw
+342,2022-04-10,Leicester City,Crystal Palace,lose or draw
+343,2022-04-17,Leicester City,Newcastle United,win
+344,2022-04-20,Leicester City,Everton,lose or draw
+345,2022-04-23,Leicester City,Aston Villa,lose or draw
+346,2022-05-01,Leicester City,Tottenham,lose or draw
+347,2022-05-08,Leicester City,Everton,lose or draw
+348,2022-05-11,Leicester City,Norwich City,win
+349,2022-05-15,Leicester City,Watford,lose or draw
+350,2022-05-19,Leicester City,Chelsea,win
+351,2022-05-22,Leicester City,Southampton,win
+352,2022-08-07,Leicester City,Brentford,win
+353,2022-08-13,Leicester City,Arsenal,lose or draw
+354,2022-08-20,Leicester City,Southampton,lose or draw
+355,2022-08-27,Leicester City,Chelsea,lose or draw
+356,2022-09-01,Leicester City,Manchester United,lose or draw
+357,2022-09-04,Leicester City,Brighton,lose or draw
+358,2022-09-17,Leicester City,Tottenham,lose or draw
+359,2022-10-03,Leicester City,Nottingham Forest,lose or draw
+360,2022-10-08,Leicester City,Bournemouth,lose or draw
+361,2022-10-15,Leicester City,Crystal Palace,lose or draw
+362,2022-10-20,Leicester City,Leeds United,lose or draw
+363,2022-10-23,Leicester City,Wolves,lose or draw
+364,2022-10-29,Leicester City,Manchester City,lose or draw
+365,2022-11-05,Leicester City,Everton,lose or draw
+366,2022-11-12,Leicester City,West Ham,lose or draw
+367,2022-12-26,Leicester City,Newcastle United,win
+368,2022-01-02,Liverpool,Chelsea,win
+369,2022-01-16,Liverpool,Brentford,lose or draw
+370,2022-01-23,Liverpool,Crystal Palace,win
+371,2022-02-10,Liverpool,Leicester City,win
+372,2022-02-13,Liverpool,Burnley,win
+373,2022-02-19,Liverpool,Norwich City,win
+374,2022-02-23,Liverpool,Leeds United,win
+375,2022-03-05,Liverpool,West Ham,win
+376,2022-03-12,Liverpool,Brighton,win
+377,2022-03-16,Liverpool,Arsenal,win
+378,2022-04-02,Liverpool,Watford,win
+379,2022-04-10,Liverpool,Manchester City,lose or draw
+380,2022-04-19,Liverpool,Manchester United,lose or draw
+381,2022-04-24,Liverpool,Everton,lose or draw
+382,2022-04-30,Liverpool,Newcastle United,lose or draw
+383,2022-05-07,Liverpool,Tottenham,win
+384,2022-05-10,Liverpool,Aston Villa,lose or draw
+385,2022-05-17,Liverpool,Southampton,win
+386,2022-05-22,Liverpool,Wolves,win
+387,2022-08-06,Liverpool,Fulham,win
+388,2022-08-15,Liverpool,Crystal Palace,win
+389,2022-08-22,Liverpool,Manchester United,win
+390,2022-08-27,Liverpool,Bournemouth,win
+391,2022-08-31,Liverpool,Newcastle United,win
+392,2022-09-03,Liverpool,Everton,win
+393,2022-10-01,Liverpool,Brighton,win
+394,2022-10-09,Liverpool,Arsenal,win
+395,2022-10-16,Liverpool,Manchester City,lose or draw
+396,2022-10-19,Liverpool,West Ham,lose or draw
+397,2022-10-22,Liverpool,Nottingham Forest,win
+398,2022-10-29,Liverpool,Leeds United,win
+399,2022-11-06,Liverpool,Tottenham,win
+400,2022-11-12,Liverpool,Southampton,lose or draw
+401,2022-12-30,Liverpool,Leicester City,win
+402,2022-01-15,Manchester City,Chelsea,lose or draw
+403,2022-01-22,Manchester City,Southampton,lose or draw
+404,2022-02-09,Manchester City,Brentford,lose or draw
+405,2022-02-12,Manchester City,Norwich City,lose or draw
+406,2022-02-19,Manchester City,Tottenham,win
+407,2022-02-26,Manchester City,Everton,win
+408,2022-03-06,Manchester City,Manchester United,lose or draw
+409,2022-03-14,Manchester City,Crystal Palace,win
+410,2022-04-02,Manchester City,Burnley,win
+411,2022-04-10,Manchester City,Liverpool,win
+412,2022-04-20,Manchester City,Brighton,lose or draw
+413,2022-04-23,Manchester City,Watford,lose or draw
+414,2022-04-30,Manchester City,Leeds United,lose or draw
+415,2022-05-08,Manchester City,Newcastle United,win
+416,2022-05-11,Manchester City,Wolves,win
+417,2022-05-15,Manchester City,West Ham,win
+418,2022-05-22,Manchester City,Aston Villa,win
+419,2022-08-07,Manchester City,West Ham,lose or draw
+420,2022-08-13,Manchester City,Bournemouth,win
+421,2022-08-21,Manchester City,Newcastle United,win
+422,2022-08-27,Manchester City,Crystal Palace,win
+423,2022-08-31,Manchester City,Nottingham Forest,win
+424,2022-09-03,Manchester City,Aston Villa,win
+425,2022-09-17,Manchester City,Wolves,win
+426,2022-10-02,Manchester City,Manchester United,lose or draw
+427,2022-10-08,Manchester City,Southampton,win
+428,2022-10-16,Manchester City,Liverpool,win
+429,2022-10-22,Manchester City,Brighton,win
+430,2022-10-29,Manchester City,Leicester City,lose or draw
+431,2022-11-05,Manchester City,Fulham,lose or draw
+432,2022-11-12,Manchester City,Brentford,lose or draw
+433,2022-12-31,Manchester City,Everton,lose or draw
+434,2022-01-03,Manchester United,Wolves,win
+435,2022-01-15,Manchester United,Aston Villa,lose or draw
+436,2022-01-19,Manchester United,Brentford,win
+437,2022-01-22,Manchester United,West Ham,lose or draw
+438,2022-02-08,Manchester United,Burnley,win
+439,2022-02-12,Manchester United,Southampton,win
+440,2022-02-15,Manchester United,Brighton,win
+441,2022-02-20,Manchester United,Leeds United,win
+442,2022-02-26,Manchester United,Watford,win
+443,2022-03-06,Manchester United,Manchester City,lose or draw
+444,2022-03-12,Manchester United,Tottenham,lose or draw
+445,2022-04-02,Manchester United,Leicester City,lose or draw
+446,2022-04-09,Manchester United,Everton,lose or draw
+447,2022-04-16,Manchester United,Norwich City,lose or draw
+448,2022-04-19,Manchester United,Liverpool,lose or draw
+449,2022-04-23,Manchester United,Arsenal,lose or draw
+450,2022-04-28,Manchester United,Chelsea,lose or draw
+451,2022-05-02,Manchester United,Brentford,lose or draw
+452,2022-05-07,Manchester United,Brighton,lose or draw
+453,2022-05-22,Manchester United,Crystal Palace,lose or draw
+454,2022-08-07,Manchester United,Brighton,lose or draw
+455,2022-08-13,Manchester United,Brentford,lose or draw
+456,2022-08-22,Manchester United,Liverpool,lose or draw
+457,2022-08-27,Manchester United,Southampton,lose or draw
+458,2022-09-01,Manchester United,Leicester City,lose or draw
+459,2022-09-04,Manchester United,Arsenal,lose or draw
+460,2022-10-02,Manchester United,Manchester City,lose or draw
+461,2022-10-09,Manchester United,Everton,lose or draw
+462,2022-10-16,Manchester United,Newcastle United,lose or draw
+463,2022-10-19,Manchester United,Tottenham,lose or draw
+464,2022-10-22,Manchester United,Chelsea,lose or draw
+465,2022-10-30,Manchester United,West Ham,lose or draw
+466,2022-11-06,Manchester United,Aston Villa,lose or draw
+467,2022-11-13,Manchester United,Fulham,lose or draw
+468,2022-12-27,Manchester United,Nottingham Forest,win
+469,2022-01-15,Newcastle United,Watford,win
+470,2022-01-22,Newcastle United,Leeds United,lose or draw
+471,2022-02-08,Newcastle United,Everton,lose or draw
+472,2022-02-13,Newcastle United,Aston Villa,win
+473,2022-02-19,Newcastle United,West Ham,win
+474,2022-02-26,Newcastle United,Brentford,lose or draw
+475,2022-03-05,Newcastle United,Brighton,win
+476,2022-03-10,Newcastle United,Southampton,win
+477,2022-03-13,Newcastle United,Chelsea,win
+478,2022-03-17,Newcastle United,Everton,lose or draw
+479,2022-04-03,Newcastle United,Tottenham,lose or draw
+480,2022-04-08,Newcastle United,Wolves,lose or draw
+481,2022-04-17,Newcastle United,Leicester City,lose or draw
+482,2022-04-20,Newcastle United,Crystal Palace,lose or draw
+483,2022-04-23,Newcastle United,Norwich City,win
+484,2022-04-30,Newcastle United,Liverpool,lose or draw
+485,2022-05-08,Newcastle United,Manchester City,lose or draw
+486,2022-05-16,Newcastle United,Arsenal,lose or draw
+487,2022-05-22,Newcastle United,Burnley,lose or draw
+488,2022-08-06,Newcastle United,Nottingham Forest,lose or draw
+489,2022-08-13,Newcastle United,Brighton,lose or draw
+490,2022-08-21,Newcastle United,Manchester City,lose or draw
+491,2022-08-28,Newcastle United,Wolves,lose or draw
+492,2022-08-31,Newcastle United,Liverpool,lose or draw
+493,2022-09-03,Newcastle United,Crystal Palace,lose or draw
+494,2022-09-17,Newcastle United,Bournemouth,win
+495,2022-10-01,Newcastle United,Fulham,lose or draw
+496,2022-10-08,Newcastle United,Brentford,win
+497,2022-10-16,Newcastle United,Manchester United,win
+498,2022-10-19,Newcastle United,Everton,win
+499,2022-10-23,Newcastle United,Tottenham,lose or draw
+500,2022-10-29,Newcastle United,Aston Villa,win
+501,2022-11-06,Newcastle United,Southampton,win
+502,2022-11-12,Newcastle United,Chelsea,win
+503,2022-12-31,Newcastle United,Leeds United,lose or draw
+504,2022-01-12,Norwich City,West Ham,lose or draw
+505,2022-01-15,Norwich City,Everton,lose or draw
+506,2022-01-21,Norwich City,Watford,lose or draw
+507,2022-02-09,Norwich City,Crystal Palace,lose or draw
+508,2022-02-12,Norwich City,Manchester City,lose or draw
+509,2022-02-19,Norwich City,Liverpool,lose or draw
+510,2022-02-25,Norwich City,Southampton,lose or draw
+511,2022-03-05,Norwich City,Brentford,lose or draw
+512,2022-03-10,Norwich City,Chelsea,lose or draw
+513,2022-03-13,Norwich City,Leeds United,lose or draw
+514,2022-04-02,Norwich City,Brighton,lose or draw
+515,2022-04-10,Norwich City,Burnley,lose or draw
+516,2022-04-16,Norwich City,Manchester United,lose or draw
+517,2022-04-23,Norwich City,Newcastle United,lose or draw
+518,2022-04-30,Norwich City,Aston Villa,lose or draw
+519,2022-05-08,Norwich City,West Ham,lose or draw
+520,2022-05-11,Norwich City,Leicester City,lose or draw
+521,2022-05-15,Norwich City,Wolves,lose or draw
+522,2022-05-22,Norwich City,Tottenham,lose or draw
+523,2022-08-28,Nottingham Forest,Tottenham,lose or draw
+524,2022-08-31,Nottingham Forest,Manchester City,lose or draw
+525,2022-09-03,Nottingham Forest,Bournemouth,lose or draw
+526,2022-09-16,Nottingham Forest,Fulham,lose or draw
+527,2022-10-03,Nottingham Forest,Leicester City,lose or draw
+528,2022-10-10,Nottingham Forest,Aston Villa,lose or draw
+529,2022-10-15,Nottingham Forest,Wolves,lose or draw
+530,2022-10-18,Nottingham Forest,Brighton,lose or draw
+531,2022-10-22,Nottingham Forest,Liverpool,lose or draw
+532,2022-10-30,Nottingham Forest,Arsenal,lose or draw
+533,2022-11-05,Nottingham Forest,Brentford,lose or draw
+534,2022-11-12,Nottingham Forest,Crystal Palace,lose or draw
+535,2023-01-01,Nottingham Forest,Chelsea,lose or draw
+536,2022-01-11,Southampton,Brentford,lose or draw
+537,2022-01-15,Southampton,Wolves,lose or draw
+538,2022-01-22,Southampton,Manchester City,lose or draw
+539,2022-02-09,Southampton,Tottenham,lose or draw
+540,2022-02-12,Southampton,Manchester United,win
+541,2022-02-19,Southampton,Everton,lose or draw
+542,2022-02-25,Southampton,Norwich City,lose or draw
+543,2022-03-05,Southampton,Aston Villa,win
+544,2022-03-10,Southampton,Newcastle United,win
+545,2022-03-13,Southampton,Watford,lose or draw
+546,2022-04-02,Southampton,Leeds United,lose or draw
+547,2022-04-09,Southampton,Chelsea,lose or draw
+548,2022-04-16,Southampton,Arsenal,lose or draw
+549,2022-04-21,Southampton,Burnley,lose or draw
+550,2022-04-24,Southampton,Brighton,lose or draw
+551,2022-04-30,Southampton,Crystal Palace,lose or draw
+552,2022-05-07,Southampton,Brentford,lose or draw
+553,2022-05-17,Southampton,Liverpool,lose or draw
+554,2022-05-22,Southampton,Leicester City,lose or draw
+555,2022-08-06,Southampton,Tottenham,lose or draw
+556,2022-08-13,Southampton,Leeds United,lose or draw
+557,2022-08-20,Southampton,Leicester City,lose or draw
+558,2022-08-27,Southampton,Manchester United,lose or draw
+559,2022-08-30,Southampton,Chelsea,lose or draw
+560,2022-09-03,Southampton,Wolves,lose or draw
+561,2022-09-16,Southampton,Aston Villa,lose or draw
+562,2022-10-01,Southampton,Everton,lose or draw
+563,2022-10-08,Southampton,Manchester City,lose or draw
+564,2022-10-16,Southampton,West Ham,lose or draw
+565,2022-10-19,Southampton,Bournemouth,lose or draw
+566,2022-10-23,Southampton,Arsenal,lose or draw
+567,2022-10-29,Southampton,Crystal Palace,lose or draw
+568,2022-11-06,Southampton,Newcastle United,lose or draw
+569,2022-11-12,Southampton,Liverpool,lose or draw
+570,2022-12-26,Southampton,Brighton,lose or draw
+571,2022-01-19,Tottenham,Leicester City,win
+572,2022-01-23,Tottenham,Chelsea,win
+573,2022-02-09,Tottenham,Southampton,win
+574,2022-02-13,Tottenham,Wolves,lose or draw
+575,2022-02-19,Tottenham,Manchester City,lose or draw
+576,2022-02-23,Tottenham,Burnley,lose or draw
+577,2022-02-26,Tottenham,Leeds United,lose or draw
+578,2022-03-07,Tottenham,Everton,lose or draw
+579,2022-03-12,Tottenham,Manchester United,win
+580,2022-03-16,Tottenham,Brighton,win
+581,2022-03-20,Tottenham,West Ham,win
+582,2022-04-03,Tottenham,Newcastle United,win
+583,2022-04-09,Tottenham,Aston Villa,win
+584,2022-04-16,Tottenham,Brighton,win
+585,2022-04-23,Tottenham,Brentford,lose or draw
+586,2022-05-01,Tottenham,Leicester City,lose or draw
+587,2022-05-07,Tottenham,Liverpool,lose or draw
+588,2022-05-12,Tottenham,Arsenal,lose or draw
+589,2022-05-15,Tottenham,Burnley,lose or draw
+590,2022-05-22,Tottenham,Norwich City,win
+591,2022-08-06,Tottenham,Southampton,win
+592,2022-08-14,Tottenham,Chelsea,win
+593,2022-08-20,Tottenham,Wolves,win
+594,2022-08-28,Tottenham,Nottingham Forest,lose or draw
+595,2022-08-31,Tottenham,West Ham,win
+596,2022-09-03,Tottenham,Fulham,lose or draw
+597,2022-09-17,Tottenham,Leicester City,lose or draw
+598,2022-10-01,Tottenham,Arsenal,win
+599,2022-10-08,Tottenham,Brighton,win
+600,2022-10-15,Tottenham,Everton,lose or draw
+601,2022-10-19,Tottenham,Manchester United,lose or draw
+602,2022-10-23,Tottenham,Newcastle United,lose or draw
+603,2022-10-29,Tottenham,Bournemouth,lose or draw
+604,2022-11-06,Tottenham,Liverpool,lose or draw
+605,2022-11-12,Tottenham,Leeds United,win
+606,2023-01-01,Tottenham,Aston Villa,win
+607,2022-01-15,Watford,Newcastle United,lose or draw
+608,2022-01-21,Watford,Norwich City,lose or draw
+609,2022-02-05,Watford,Burnley,lose or draw
+610,2022-02-08,Watford,West Ham,lose or draw
+611,2022-02-12,Watford,Brighton,lose or draw
+612,2022-02-19,Watford,Aston Villa,lose or draw
+613,2022-02-23,Watford,Crystal Palace,lose or draw
+614,2022-02-26,Watford,Manchester United,lose or draw
+615,2022-03-06,Watford,Arsenal,lose or draw
+616,2022-03-10,Watford,Wolves,lose or draw
+617,2022-03-13,Watford,Southampton,lose or draw
+618,2022-04-02,Watford,Liverpool,lose or draw
+619,2022-04-09,Watford,Leeds United,lose or draw
+620,2022-04-16,Watford,Brentford,lose or draw
+621,2022-04-23,Watford,Manchester City,lose or draw
+622,2022-04-30,Watford,Burnley,lose or draw
+623,2022-05-07,Watford,Crystal Palace,lose or draw
+624,2022-05-11,Watford,Everton,lose or draw
+625,2022-05-15,Watford,Leicester City,lose or draw
+626,2022-05-22,Watford,Chelsea,lose or draw
+627,2022-01-12,West Ham,Norwich City,win
+628,2022-01-16,West Ham,Leeds United,lose or draw
+629,2022-01-22,West Ham,Manchester United,lose or draw
+630,2022-02-08,West Ham,Watford,lose or draw
+631,2022-02-13,West Ham,Leicester City,lose or draw
+632,2022-02-19,West Ham,Newcastle United,lose or draw
+633,2022-02-27,West Ham,Wolves,lose or draw
+634,2022-03-05,West Ham,Liverpool,lose or draw
+635,2022-03-13,West Ham,Aston Villa,win
+636,2022-03-20,West Ham,Tottenham,lose or draw
+637,2022-04-03,West Ham,Everton,lose or draw
+638,2022-04-10,West Ham,Brentford,lose or draw
+639,2022-04-17,West Ham,Burnley,lose or draw
+640,2022-04-24,West Ham,Chelsea,lose or draw
+641,2022-05-01,West Ham,Arsenal,lose or draw
+642,2022-05-08,West Ham,Norwich City,lose or draw
+643,2022-05-15,West Ham,Manchester City,lose or draw
+644,2022-05-22,West Ham,Brighton,lose or draw
+645,2022-08-07,West Ham,Manchester City,lose or draw
+646,2022-08-14,West Ham,Nottingham Forest,lose or draw
+647,2022-08-21,West Ham,Brighton,lose or draw
+648,2022-08-28,West Ham,Aston Villa,lose or draw
+649,2022-08-31,West Ham,Tottenham,lose or draw
+650,2022-09-03,West Ham,Chelsea,lose or draw
+651,2022-09-18,West Ham,Everton,lose or draw
+652,2022-10-01,West Ham,Wolves,lose or draw
+653,2022-10-09,West Ham,Fulham,lose or draw
+654,2022-10-16,West Ham,Southampton,win
+655,2022-10-19,West Ham,Liverpool,lose or draw
+656,2022-10-24,West Ham,Bournemouth,lose or draw
+657,2022-10-30,West Ham,Manchester United,lose or draw
+658,2022-11-06,West Ham,Crystal Palace,lose or draw
+659,2022-11-12,West Ham,Leicester City,lose or draw
+660,2022-12-30,West Ham,Brentford,lose or draw
+661,2022-01-03,Wolves,Manchester United,lose or draw
+662,2022-01-15,Wolves,Southampton,win
+663,2022-01-22,Wolves,Brentford,lose or draw
+664,2022-02-10,Wolves,Arsenal,lose or draw
+665,2022-02-13,Wolves,Tottenham,lose or draw
+666,2022-02-20,Wolves,Leicester City,lose or draw
+667,2022-02-24,Wolves,Arsenal,lose or draw
+668,2022-02-27,Wolves,West Ham,lose or draw
+669,2022-03-05,Wolves,Crystal Palace,lose or draw
+670,2022-03-10,Wolves,Watford,lose or draw
+671,2022-03-13,Wolves,Everton,lose or draw
+672,2022-03-18,Wolves,Leeds United,lose or draw
+673,2022-04-02,Wolves,Aston Villa,lose or draw
+674,2022-04-08,Wolves,Newcastle United,lose or draw
+675,2022-04-24,Wolves,Burnley,lose or draw
+676,2022-04-30,Wolves,Brighton,lose or draw
+677,2022-05-07,Wolves,Chelsea,lose or draw
+678,2022-05-11,Wolves,Manchester City,lose or draw
+679,2022-05-15,Wolves,Norwich City,lose or draw
+680,2022-05-22,Wolves,Liverpool,lose or draw
+681,2022-08-06,Wolves,Leeds United,lose or draw
+682,2022-08-13,Wolves,Fulham,lose or draw
+683,2022-08-20,Wolves,Tottenham,lose or draw
+684,2022-08-28,Wolves,Newcastle United,win
+685,2022-08-31,Wolves,Bournemouth,lose or draw
+686,2022-09-03,Wolves,Southampton,win
+687,2022-09-17,Wolves,Manchester City,lose or draw
+688,2022-10-01,Wolves,West Ham,lose or draw
+689,2022-10-08,Wolves,Chelsea,lose or draw
+690,2022-10-15,Wolves,Nottingham Forest,win
+691,2022-10-18,Wolves,Crystal Palace,lose or draw
+692,2022-10-23,Wolves,Leicester City,lose or draw
+693,2022-10-29,Wolves,Brentford,lose or draw
+694,2022-11-05,Wolves,Brighton,lose or draw
+695,2022-11-12,Wolves,Arsenal,lose or draw
+696,2022-12-31,Wolves,Manchester United,lose or draw

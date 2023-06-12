@@ -16,11 +16,9 @@ def dropdown():
        'West Ham', 'Wolves']
     
     selected_team = None
-    selected_rows = None
+    selected_rows = pd.DataFrame()
     if request.method == 'POST':
         selected_team = request.form['team']
-        print(f'{selected_team = }')
-        print(df["team"])
         selected_rows = df[df['team'] == selected_team]
     
     return render_template('test.html', teams=teams, selected_rows=selected_rows, data=df)

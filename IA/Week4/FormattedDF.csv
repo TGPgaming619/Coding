@@ -1,0 +1,277 @@
+,date,team,opponent,predicted,actual
+113,2022-08-20,Arsenal,Bournemouth,win,win
+114,2022-08-27,Arsenal,Fulham,win,win
+115,2022-08-31,Arsenal,Aston Villa,win,win
+116,2022-09-04,Arsenal,Manchester United,win,lose or draw
+117,2022-09-18,Arsenal,Brentford,lose or draw,win
+118,2022-10-01,Arsenal,Tottenham,lose or draw,win
+119,2022-10-09,Arsenal,Liverpool,lose or draw,win
+120,2022-10-16,Arsenal,Leeds United,lose or draw,win
+121,2022-10-23,Arsenal,Southampton,win,lose or draw
+122,2022-10-30,Arsenal,Nottingham Forest,win,win
+123,2022-11-06,Arsenal,Chelsea,win,win
+124,2022-11-12,Arsenal,Wolves,win,win
+125,2022-12-26,Arsenal,West Ham,win,lose or draw
+239,2022-08-20,Aston Villa,Crystal Palace,lose or draw,lose or draw
+240,2022-08-28,Aston Villa,West Ham,lose or draw,lose or draw
+241,2022-08-31,Aston Villa,Arsenal,lose or draw,lose or draw
+242,2022-09-03,Aston Villa,Manchester City,lose or draw,lose or draw
+243,2022-09-16,Aston Villa,Southampton,lose or draw,win
+244,2022-10-02,Aston Villa,Leeds United,lose or draw,lose or draw
+245,2022-10-10,Aston Villa,Nottingham Forest,lose or draw,lose or draw
+246,2022-10-16,Aston Villa,Chelsea,win,lose or draw
+247,2022-10-20,Aston Villa,Fulham,win,lose or draw
+248,2022-10-23,Aston Villa,Brentford,win,win
+249,2022-10-29,Aston Villa,Newcastle United,win,lose or draw
+250,2022-11-06,Aston Villa,Manchester United,lose or draw,win
+251,2022-11-13,Aston Villa,Brighton,lose or draw,win
+252,2022-12-26,Aston Villa,Liverpool,lose or draw,lose or draw
+290,2022-08-20,Bournemouth,Arsenal,lose or draw,lose or draw
+291,2022-08-27,Bournemouth,Liverpool,lose or draw,lose or draw
+292,2022-08-31,Bournemouth,Wolves,win,lose or draw
+293,2022-09-03,Bournemouth,Nottingham Forest,lose or draw,win
+294,2022-09-17,Bournemouth,Newcastle United,lose or draw,lose or draw
+295,2022-10-01,Bournemouth,Brentford,lose or draw,lose or draw
+296,2022-10-08,Bournemouth,Leicester City,lose or draw,win
+297,2022-10-15,Bournemouth,Fulham,lose or draw,lose or draw
+298,2022-10-19,Bournemouth,Southampton,lose or draw,lose or draw
+299,2022-10-24,Bournemouth,West Ham,lose or draw,lose or draw
+300,2022-10-29,Bournemouth,Tottenham,lose or draw,lose or draw
+301,2022-11-05,Bournemouth,Leeds United,lose or draw,lose or draw
+302,2022-11-12,Bournemouth,Everton,lose or draw,win
+303,2022-12-31,Bournemouth,Crystal Palace,lose or draw,lose or draw
+341,2022-08-20,Brentford,Fulham,lose or draw,lose or draw
+342,2022-08-27,Brentford,Everton,lose or draw,lose or draw
+343,2022-08-30,Brentford,Crystal Palace,lose or draw,lose or draw
+344,2022-09-03,Brentford,Leeds United,lose or draw,win
+345,2022-09-18,Brentford,Arsenal,lose or draw,lose or draw
+346,2022-10-01,Brentford,Bournemouth,lose or draw,lose or draw
+347,2022-10-08,Brentford,Newcastle United,lose or draw,lose or draw
+348,2022-10-14,Brentford,Brighton,lose or draw,win
+349,2022-10-19,Brentford,Chelsea,lose or draw,lose or draw
+350,2022-10-23,Brentford,Aston Villa,lose or draw,lose or draw
+351,2022-10-29,Brentford,Wolves,lose or draw,lose or draw
+352,2022-11-05,Brentford,Nottingham Forest,lose or draw,lose or draw
+353,2022-11-12,Brentford,Manchester City,lose or draw,win
+354,2022-12-26,Brentford,Tottenham,lose or draw,lose or draw
+468,2022-08-21,Brighton,West Ham,win,win
+469,2022-08-27,Brighton,Leeds United,lose or draw,win
+470,2022-08-30,Brighton,Fulham,lose or draw,lose or draw
+471,2022-09-04,Brighton,Leicester City,lose or draw,win
+472,2022-10-01,Brighton,Liverpool,lose or draw,lose or draw
+473,2022-10-08,Brighton,Tottenham,lose or draw,lose or draw
+474,2022-10-14,Brighton,Brentford,lose or draw,lose or draw
+475,2022-10-18,Brighton,Nottingham Forest,win,lose or draw
+476,2022-10-22,Brighton,Manchester City,win,lose or draw
+477,2022-10-29,Brighton,Chelsea,win,win
+478,2022-11-05,Brighton,Wolves,lose or draw,win
+479,2022-11-13,Brighton,Aston Villa,lose or draw,lose or draw
+480,2022-12-31,Brighton,Arsenal,lose or draw,lose or draw
+704,2022-08-14,Chelsea,Tottenham,win,lose or draw
+705,2022-08-21,Chelsea,Leeds United,lose or draw,lose or draw
+706,2022-08-27,Chelsea,Leicester City,lose or draw,win
+707,2022-08-30,Chelsea,Southampton,lose or draw,lose or draw
+708,2022-09-03,Chelsea,West Ham,lose or draw,win
+709,2022-10-01,Chelsea,Crystal Palace,lose or draw,win
+710,2022-10-08,Chelsea,Wolves,lose or draw,win
+711,2022-10-16,Chelsea,Aston Villa,lose or draw,win
+712,2022-10-19,Chelsea,Brentford,win,lose or draw
+713,2022-10-22,Chelsea,Manchester United,lose or draw,lose or draw
+714,2022-10-29,Chelsea,Brighton,lose or draw,lose or draw
+715,2022-11-06,Chelsea,Arsenal,lose or draw,lose or draw
+716,2022-11-12,Chelsea,Newcastle United,lose or draw,lose or draw
+717,2022-12-27,Chelsea,Bournemouth,lose or draw,lose or draw
+827,2022-08-15,Crystal Palace,Liverpool,lose or draw,lose or draw
+828,2022-08-20,Crystal Palace,Aston Villa,lose or draw,win
+829,2022-08-27,Crystal Palace,Manchester City,lose or draw,lose or draw
+830,2022-08-30,Crystal Palace,Brentford,lose or draw,lose or draw
+831,2022-09-03,Crystal Palace,Newcastle United,lose or draw,lose or draw
+832,2022-10-01,Crystal Palace,Chelsea,lose or draw,lose or draw
+833,2022-10-09,Crystal Palace,Leeds United,lose or draw,win
+834,2022-10-15,Crystal Palace,Leicester City,lose or draw,lose or draw
+835,2022-10-18,Crystal Palace,Wolves,lose or draw,win
+836,2022-10-22,Crystal Palace,Everton,lose or draw,lose or draw
+837,2022-10-29,Crystal Palace,Southampton,lose or draw,win
+838,2022-11-06,Crystal Palace,West Ham,lose or draw,win
+839,2022-11-12,Crystal Palace,Nottingham Forest,lose or draw,lose or draw
+840,2022-12-26,Crystal Palace,Fulham,lose or draw,lose or draw
+954,2022-08-20,Everton,Nottingham Forest,lose or draw,lose or draw
+955,2022-08-27,Everton,Brentford,lose or draw,lose or draw
+956,2022-08-30,Everton,Leeds United,lose or draw,lose or draw
+957,2022-09-03,Everton,Liverpool,lose or draw,lose or draw
+958,2022-09-18,Everton,West Ham,win,win
+959,2022-10-01,Everton,Southampton,lose or draw,win
+960,2022-10-09,Everton,Manchester United,lose or draw,lose or draw
+961,2022-10-15,Everton,Tottenham,lose or draw,lose or draw
+962,2022-10-19,Everton,Newcastle United,lose or draw,lose or draw
+963,2022-10-22,Everton,Crystal Palace,lose or draw,win
+964,2022-10-29,Everton,Fulham,lose or draw,lose or draw
+965,2022-11-05,Everton,Leicester City,lose or draw,lose or draw
+966,2022-11-12,Everton,Bournemouth,lose or draw,lose or draw
+967,2022-12-26,Everton,Wolves,lose or draw,lose or draw
+1005,2022-08-20,Fulham,Brentford,lose or draw,win
+1006,2022-08-27,Fulham,Arsenal,lose or draw,lose or draw
+1007,2022-08-30,Fulham,Brighton,lose or draw,win
+1008,2022-09-03,Fulham,Tottenham,win,lose or draw
+1009,2022-09-16,Fulham,Nottingham Forest,lose or draw,win
+1010,2022-10-01,Fulham,Newcastle United,lose or draw,lose or draw
+1011,2022-10-09,Fulham,West Ham,lose or draw,lose or draw
+1012,2022-10-15,Fulham,Bournemouth,lose or draw,lose or draw
+1013,2022-10-20,Fulham,Aston Villa,lose or draw,win
+1014,2022-10-23,Fulham,Leeds United,lose or draw,win
+1015,2022-10-29,Fulham,Everton,win,lose or draw
+1016,2022-11-05,Fulham,Manchester City,lose or draw,lose or draw
+1017,2022-11-13,Fulham,Manchester United,lose or draw,lose or draw
+1018,2022-12-31,Fulham,Southampton,lose or draw,lose or draw
+1094,2022-08-21,Leeds United,Chelsea,lose or draw,win
+1095,2022-08-27,Leeds United,Brighton,lose or draw,lose or draw
+1096,2022-08-30,Leeds United,Everton,lose or draw,lose or draw
+1097,2022-09-03,Leeds United,Brentford,lose or draw,lose or draw
+1098,2022-10-02,Leeds United,Aston Villa,win,lose or draw
+1099,2022-10-09,Leeds United,Crystal Palace,lose or draw,lose or draw
+1100,2022-10-16,Leeds United,Arsenal,lose or draw,lose or draw
+1101,2022-10-20,Leeds United,Leicester City,lose or draw,lose or draw
+1102,2022-10-23,Leeds United,Fulham,lose or draw,lose or draw
+1103,2022-10-29,Leeds United,Liverpool,lose or draw,win
+1104,2022-11-05,Leeds United,Bournemouth,win,win
+1105,2022-11-12,Leeds United,Tottenham,lose or draw,lose or draw
+1106,2022-12-28,Leeds United,Manchester City,lose or draw,lose or draw
+1220,2022-08-20,Leicester City,Southampton,lose or draw,lose or draw
+1221,2022-08-27,Leicester City,Chelsea,lose or draw,lose or draw
+1222,2022-09-01,Leicester City,Manchester United,lose or draw,lose or draw
+1223,2022-09-04,Leicester City,Brighton,lose or draw,lose or draw
+1224,2022-09-17,Leicester City,Tottenham,lose or draw,lose or draw
+1225,2022-10-03,Leicester City,Nottingham Forest,win,win
+1226,2022-10-08,Leicester City,Bournemouth,lose or draw,lose or draw
+1227,2022-10-15,Leicester City,Crystal Palace,lose or draw,lose or draw
+1228,2022-10-20,Leicester City,Leeds United,lose or draw,win
+1229,2022-10-23,Leicester City,Wolves,lose or draw,win
+1230,2022-10-29,Leicester City,Manchester City,lose or draw,lose or draw
+1231,2022-11-05,Leicester City,Everton,lose or draw,win
+1232,2022-11-12,Leicester City,West Ham,lose or draw,win
+1233,2022-12-26,Leicester City,Newcastle United,win,lose or draw
+1346,2022-08-15,Liverpool,Crystal Palace,win,lose or draw
+1347,2022-08-22,Liverpool,Manchester United,lose or draw,lose or draw
+1348,2022-08-27,Liverpool,Bournemouth,lose or draw,win
+1349,2022-08-31,Liverpool,Newcastle United,win,win
+1350,2022-09-03,Liverpool,Everton,win,lose or draw
+1351,2022-10-01,Liverpool,Brighton,win,lose or draw
+1352,2022-10-09,Liverpool,Arsenal,lose or draw,lose or draw
+1353,2022-10-16,Liverpool,Manchester City,lose or draw,win
+1354,2022-10-19,Liverpool,West Ham,lose or draw,win
+1355,2022-10-22,Liverpool,Nottingham Forest,win,lose or draw
+1356,2022-10-29,Liverpool,Leeds United,win,lose or draw
+1357,2022-11-06,Liverpool,Tottenham,win,win
+1358,2022-11-12,Liverpool,Southampton,win,win
+1359,2022-12-30,Liverpool,Leicester City,lose or draw,lose or draw
+1473,2022-08-21,Manchester City,Newcastle United,win,lose or draw
+1474,2022-08-27,Manchester City,Crystal Palace,win,win
+1475,2022-08-31,Manchester City,Nottingham Forest,win,win
+1476,2022-09-03,Manchester City,Aston Villa,win,lose or draw
+1477,2022-09-17,Manchester City,Wolves,lose or draw,win
+1478,2022-10-02,Manchester City,Manchester United,lose or draw,win
+1479,2022-10-08,Manchester City,Southampton,win,win
+1480,2022-10-16,Manchester City,Liverpool,win,lose or draw
+1481,2022-10-22,Manchester City,Brighton,win,win
+1482,2022-10-29,Manchester City,Leicester City,lose or draw,win
+1483,2022-11-05,Manchester City,Fulham,lose or draw,win
+1484,2022-11-12,Manchester City,Brentford,lose or draw,lose or draw
+1485,2022-12-31,Manchester City,Everton,lose or draw,lose or draw
+1599,2022-08-22,Manchester United,Liverpool,lose or draw,win
+1600,2022-08-27,Manchester United,Southampton,lose or draw,win
+1601,2022-09-01,Manchester United,Leicester City,lose or draw,win
+1602,2022-09-04,Manchester United,Arsenal,win,win
+1603,2022-10-02,Manchester United,Manchester City,lose or draw,lose or draw
+1604,2022-10-09,Manchester United,Everton,lose or draw,win
+1605,2022-10-16,Manchester United,Newcastle United,lose or draw,lose or draw
+1606,2022-10-19,Manchester United,Tottenham,lose or draw,win
+1607,2022-10-22,Manchester United,Chelsea,win,lose or draw
+1608,2022-10-30,Manchester United,West Ham,win,win
+1609,2022-11-06,Manchester United,Aston Villa,win,lose or draw
+1610,2022-11-13,Manchester United,Fulham,lose or draw,win
+1611,2022-12-27,Manchester United,Nottingham Forest,lose or draw,lose or draw
+1725,2022-08-21,Newcastle United,Manchester City,lose or draw,lose or draw
+1726,2022-08-28,Newcastle United,Wolves,lose or draw,lose or draw
+1727,2022-08-31,Newcastle United,Liverpool,lose or draw,lose or draw
+1728,2022-09-03,Newcastle United,Crystal Palace,lose or draw,lose or draw
+1729,2022-09-17,Newcastle United,Bournemouth,win,lose or draw
+1730,2022-10-01,Newcastle United,Fulham,lose or draw,win
+1731,2022-10-08,Newcastle United,Brentford,win,win
+1732,2022-10-16,Newcastle United,Manchester United,win,lose or draw
+1733,2022-10-19,Newcastle United,Everton,win,win
+1734,2022-10-23,Newcastle United,Tottenham,lose or draw,win
+1735,2022-10-29,Newcastle United,Aston Villa,win,win
+1736,2022-11-06,Newcastle United,Southampton,win,win
+1737,2022-11-12,Newcastle United,Chelsea,win,win
+1738,2022-12-31,Newcastle United,Leeds United,lose or draw,lose or draw
+1812,2022-08-28,Nottingham Forest,Tottenham,lose or draw,lose or draw
+1813,2022-08-31,Nottingham Forest,Manchester City,lose or draw,lose or draw
+1814,2022-09-03,Nottingham Forest,Bournemouth,win,lose or draw
+1815,2022-09-16,Nottingham Forest,Fulham,lose or draw,lose or draw
+1816,2022-10-03,Nottingham Forest,Leicester City,lose or draw,lose or draw
+1817,2022-10-10,Nottingham Forest,Aston Villa,lose or draw,lose or draw
+1818,2022-10-15,Nottingham Forest,Wolves,lose or draw,lose or draw
+1819,2022-10-18,Nottingham Forest,Brighton,lose or draw,lose or draw
+1820,2022-10-22,Nottingham Forest,Liverpool,lose or draw,win
+1821,2022-10-30,Nottingham Forest,Arsenal,lose or draw,lose or draw
+1822,2022-11-05,Nottingham Forest,Brentford,lose or draw,lose or draw
+1823,2022-11-12,Nottingham Forest,Crystal Palace,lose or draw,win
+1824,2023-01-01,Nottingham Forest,Chelsea,lose or draw,lose or draw
+2011,2022-08-20,Southampton,Leicester City,lose or draw,win
+2012,2022-08-27,Southampton,Manchester United,lose or draw,lose or draw
+2013,2022-08-30,Southampton,Chelsea,lose or draw,win
+2014,2022-09-03,Southampton,Wolves,win,lose or draw
+2015,2022-09-16,Southampton,Aston Villa,lose or draw,lose or draw
+2016,2022-10-01,Southampton,Everton,lose or draw,lose or draw
+2017,2022-10-08,Southampton,Manchester City,lose or draw,lose or draw
+2018,2022-10-16,Southampton,West Ham,lose or draw,lose or draw
+2019,2022-10-19,Southampton,Bournemouth,lose or draw,win
+2020,2022-10-23,Southampton,Arsenal,lose or draw,lose or draw
+2021,2022-10-29,Southampton,Crystal Palace,lose or draw,lose or draw
+2022,2022-11-06,Southampton,Newcastle United,lose or draw,lose or draw
+2023,2022-11-12,Southampton,Liverpool,lose or draw,lose or draw
+2024,2022-12-26,Southampton,Brighton,lose or draw,lose or draw
+2137,2022-08-14,Tottenham,Chelsea,win,lose or draw
+2138,2022-08-20,Tottenham,Wolves,win,win
+2139,2022-08-28,Tottenham,Nottingham Forest,win,win
+2140,2022-08-31,Tottenham,West Ham,win,lose or draw
+2141,2022-09-03,Tottenham,Fulham,lose or draw,win
+2142,2022-09-17,Tottenham,Leicester City,win,win
+2143,2022-10-01,Tottenham,Arsenal,lose or draw,lose or draw
+2144,2022-10-08,Tottenham,Brighton,win,win
+2145,2022-10-15,Tottenham,Everton,lose or draw,win
+2146,2022-10-19,Tottenham,Manchester United,lose or draw,lose or draw
+2147,2022-10-23,Tottenham,Newcastle United,win,lose or draw
+2148,2022-10-29,Tottenham,Bournemouth,lose or draw,win
+2149,2022-11-06,Tottenham,Liverpool,lose or draw,lose or draw
+2150,2022-11-12,Tottenham,Leeds United,lose or draw,win
+2151,2023-01-01,Tottenham,Aston Villa,win,lose or draw
+2372,2022-08-14,West Ham,Nottingham Forest,lose or draw,lose or draw
+2373,2022-08-21,West Ham,Brighton,lose or draw,lose or draw
+2374,2022-08-28,West Ham,Aston Villa,lose or draw,win
+2375,2022-08-31,West Ham,Tottenham,lose or draw,lose or draw
+2376,2022-09-03,West Ham,Chelsea,lose or draw,lose or draw
+2377,2022-09-18,West Ham,Everton,lose or draw,lose or draw
+2378,2022-10-01,West Ham,Wolves,lose or draw,win
+2379,2022-10-09,West Ham,Fulham,lose or draw,win
+2380,2022-10-16,West Ham,Southampton,win,lose or draw
+2381,2022-10-19,West Ham,Liverpool,lose or draw,lose or draw
+2382,2022-10-24,West Ham,Bournemouth,win,win
+2383,2022-10-30,West Ham,Manchester United,lose or draw,lose or draw
+2384,2022-11-06,West Ham,Crystal Palace,lose or draw,lose or draw
+2385,2022-11-12,West Ham,Leicester City,lose or draw,lose or draw
+2386,2022-12-30,West Ham,Brentford,lose or draw,lose or draw
+2500,2022-08-20,Wolves,Tottenham,lose or draw,lose or draw
+2501,2022-08-28,Wolves,Newcastle United,lose or draw,lose or draw
+2502,2022-08-31,Wolves,Bournemouth,lose or draw,lose or draw
+2503,2022-09-03,Wolves,Southampton,win,win
+2504,2022-09-17,Wolves,Manchester City,lose or draw,lose or draw
+2505,2022-10-01,Wolves,West Ham,lose or draw,lose or draw
+2506,2022-10-08,Wolves,Chelsea,lose or draw,lose or draw
+2507,2022-10-15,Wolves,Nottingham Forest,win,win
+2508,2022-10-18,Wolves,Crystal Palace,lose or draw,lose or draw
+2509,2022-10-23,Wolves,Leicester City,lose or draw,lose or draw
+2510,2022-10-29,Wolves,Brentford,lose or draw,lose or draw
+2511,2022-11-05,Wolves,Brighton,lose or draw,lose or draw
+2512,2022-11-12,Wolves,Arsenal,lose or draw,lose or draw
+2513,2022-12-31,Wolves,Manchester United,lose or draw,lose or draw

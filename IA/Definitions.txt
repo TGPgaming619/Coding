@@ -1,0 +1,21 @@
+gf- goals for
+ga- goals against
+xg- expected goals
+xga- expected goal against
+poss- posession
+sh- shots total
+sot- shots on target
+dist- distance
+fk- freekicks
+pk- penalty kicks made
+pkatt- penalty kicks attempted 
+kp- shots that directly lead to a shot
+p_third- completed passes that enter the 1/3 closest to goal
+ppa- completed passes into 18-yard box
+crs_pa- completed crosses into 18-yard box
+prog- progressive passes
+att_third- touches in attacking third
+att_pen- touches in attacking penalty area
+sca- Shot Creating Actions
+gca- Goal creating actions
+tb- completed pass sent between back defenders into open space
